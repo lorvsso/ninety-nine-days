@@ -17,16 +17,31 @@ export const BlogPostTemplate = ({
   const PostContent = contentComponent || Content
 
   return (
-    <section className="section">
-      {helmet || ''}
-      <div className="container content">
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              {title}
-            </h1>
-            <p>{description}</p>
-            <PostContent content={content} />
+    // <section className="section">
+      
+    //   <div className="container content">
+    //     <div className="columns">
+    //       <div className="column is-10 is-offset-1">
+    //         <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
+              
+    //         </h1>
+    //         <p>{description}</p>
+
+    //       </div>
+    //     </div>
+    //   </div>
+    // </section>
+
+    <article className="baskerville pb5">
+    {helmet || ''}
+  <header className="avenir tc-l ph3 ph4-ns pt4 pt5-ns">
+    <h1 className="f3 f2-m f-subheadline-l measure lh-title fw1 mt0">{title}</h1>
+    <time className="f5 f4-l db fw1 baskerville mb4">{description}</time>
+  </header>
+  <div className="ph3 ph4-m ph5-l">
+    <div className="measure db center f5 f4-ns lh-copy">
+
+      <PostContent content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
                 <h4>Tags</h4>
@@ -39,10 +54,9 @@ export const BlogPostTemplate = ({
                 </ul>
               </div>
             ) : null}
-          </div>
-        </div>
-      </div>
-    </section>
+            </div>
+  </div>
+</article>
   )
 }
 
