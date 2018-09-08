@@ -2,11 +2,11 @@ import React from "react";
 import Helmet from "react-helmet";
 
 import Navbar from "../components/Navbar";
-import "./tachyons.css";
+import "./base.css";
 
 const TemplateWrapper = ({ children }) => (
-  <div className="is-four-fifths">
-    <Helmet title="Home | Gatsby + Netlify CMS" />
+  <div className="mw7 center sans-serif fw3 dark">
+    <Helmet title="ninety-nine days" />
     <Navbar />
     <div>{children}</div>
   </div>
