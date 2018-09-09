@@ -4,39 +4,37 @@ import { Link } from "gatsby";
 const Navbar = () => (
   <nav className="sans-serif">
     <Link
-      className="link black b f1 f-headline-ns tc db mb3 mb4-ns"
-      style={{ fontFamily: "Roslindale Display Condensed Bold" }}
+      className="link dark-gray b f1 f-headline-ns tc db mb3 mt3 mb4-ns garamond"
       to="/"
     >
       ninety-nine days
     </Link>
-    <div className="tc pb6">
-      <Link className="link dim gray f6 f5-ns dib mr3" to="/about">
+    <div className="tc pb5">
+      <Link className="link dim gray f6 f5-ns mr3" to="/about">
         About
       </Link>
-      <Link className="link dim gray f6 f5-ns dib mr3" to="tags/europe">
+      <Link className="link dim gray f6 f5-ns mr3" to="tags/europe">
         Europe
       </Link>
-      <Link
-        className="link dim gray f6 f5-ns dib mr3"
-        to="tags/asia"
-        title="About"
-      >
+      <Link className="link dim gray f6 f5-ns mr3" to="tags/asia" title="About">
         Asia
       </Link>
       <Link
-        className="link dim gray f6 f5-ns dib mr3"
+        className="link dim gray f6 f5-ns mr3"
         to="tags/africa"
         title="Store"
       >
         Africa
       </Link>
       <Link
-        className="link dim gray f6 f5-ns dib"
-        to="tags/americas"
+        className="link dim gray f6 f5-ns mr3"
+        to="tags/central-america"
         title="Contact"
       >
-        North America
+        Central America
+      </Link>
+      <Link className="link dim gray f6 f5-ns" to="tags/vegan" title="Contact">
+        Vegan
       </Link>
     </div>
   </nav>
