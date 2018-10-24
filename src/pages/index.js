@@ -30,8 +30,9 @@ export default class IndexPage extends React.Component {
             </div>
           </div>
         </section>
-        {/* <section className="tl">
-          <h1 className="f2 fw3">Latest Posts</h1>
+        {/* TODO: get working with featured photo in above grid. This is just
+        temporary so authors can see the lists of posts. */}
+        <section className="tl mw7 center">
           {posts.map(({ node: post }) => (
             <div className="mt6" key={post.id}>
               <p>
@@ -56,7 +57,7 @@ export default class IndexPage extends React.Component {
               </p>
             </div>
           ))}
-        </section> */}
+        </section>
       </Layout>
     );
   }

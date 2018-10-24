@@ -13,8 +13,12 @@ const Navbar = () => (
       <Link className="link dim gray f6 f5-ns mr3 dib" to="/about">
         About
       </Link>
-      <Link className="link dim gray f6 f5-ns mr3 dib" to="tags/europe">
-        Europe
+      <Link
+        className="link dim gray f6 f5-ns mr3 dib"
+        to="tags/africa"
+        title="Store"
+      >
+        Africa
       </Link>
       <Link
         className="link dim gray f6 f5-ns mr3 dib"
@@ -24,18 +28,14 @@ const Navbar = () => (
         Asia
       </Link>
       <Link
-        className="link dim gray f6 f5-ns mr3"
-        to="tags/africa"
-        title="Store"
-      >
-        Africa
-      </Link>
-      <Link
         className="link dim gray f6 f5-ns mr3 dib"
         to="tags/central-america"
         title="Contact"
       >
         Central&nbsp;America
+      </Link>
+      <Link className="link dim gray f6 f5-ns mr3 dib" to="tags/europe">
+        Europe
       </Link>
       <Link
         className="link dim gray f6 f5-ns dib"
