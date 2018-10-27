@@ -25,8 +25,8 @@ export const BlogPostTemplate = ({
         </h1>
         <time className="f5 f4-l db fw1 mb4">{description}</time>
       </header>
-      <div className="ph3 ph4-m ph5-l">
-        <div className="measure db center f5 f4-ns lh-copy">
+      <div className="">
+        <div className="measure db center lh-copy">
           <PostContent content={content} />
           {tags && tags.length ? (
             <div style={{ marginTop: `4rem` }}>
