@@ -1,5 +1,21 @@
 @import "tachyons.css";
 
+@font-face {
+  src: url("./fonts/FernMicro-Regular.woff2") format("woff2"),
+    url("./fonts/FernMicro-Regular.woff") format("woff");
+  font-family: "FernMicroWeb";
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url("./fonts/FernMicro-Italic.woff2") format("woff2"),
+    url("./fonts/FernMicro-Italic.woff") format("woff");
+  font-family: "FernMicroWeb";
+  font-style: italic;
+  font-weight: normal;
+}
+
 .josefin {
   font-family: "Josefin Slab", serif;
 }
@@ -26,6 +42,12 @@
 *:before,
 *:after {
   box-sizing: border-box;
+}
+
+html,
+body {
+  font-family: "EB Garamond", Georgia, "Times New Roman", Times, serif;
+  font-weight: 400;
 }
 
 img {
