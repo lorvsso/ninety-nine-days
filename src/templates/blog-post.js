@@ -22,10 +22,11 @@ export const BlogPostTemplate = ({
   return (
     <article className="pb5">
       {helmet || ""}
+      <Img fluid={featuredImage.childImageSharp.fluid} />
+
       <h1 className="f3 f2-m f-subheadline-l measure lh-title fw1 mt0">
         {title}
       </h1>
-      <Img fluid={featuredImage.childImageSharp.fluid} />
 
       <time className="f5 f4-l db fw1 mb4">{description}</time>
       <div className="">
@@ -100,8 +101,8 @@ export const pageQuery = graphql`
         tags
         featuredImage {
           childImageSharp {
-            fluid(maxWidth: 700) {
-              src
+            fluid(maxWidth: 900) {
+              ...GatsbyImageSharpFluid
             }
           }
         }
