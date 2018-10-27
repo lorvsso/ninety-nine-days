@@ -51,6 +51,11 @@ img:hover {
   flex: 1 1 250px;
 }
 
+.panel:nth-child(4n-7) {
+  /* or 4n+1 */
+  grid-row-end: span 2;
+}
+
 .empty {
   background: #fff !important;
 }

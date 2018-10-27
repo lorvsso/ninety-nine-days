@@ -5,7 +5,7 @@ import Navbar from "../components/Navbar";
 import "../styles/base.css";
 
 const TemplateWrapper = ({ children }) => (
-  <div className="mw8 center dark-gray">
+  <div className="mw9 center dark-gray">
     <Helmet
       title="ninety-nine days"
       link={[

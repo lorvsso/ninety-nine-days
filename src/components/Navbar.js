@@ -38,14 +38,21 @@ const Navbar = () => (
         className="link dim gray f6 f5-ns mr3 dib"
         to="tags/the-middle-east"
       >
-        Middle East
+        Middle&nbsp;East
+      </Link>
+      <Link
+        className="link dim gray f6 f5-ns mr3 dib"
+        to="tags/vegan"
+        title="Contact"
+      >
+        Vegan
       </Link>
       <Link
         className="link dim gray f6 f5-ns dib"
         to="tags/vegan"
         title="Contact"
       >
-        Vegan
+        Zero&nbsp;Waste
       </Link>
     </div>
   </nav>
