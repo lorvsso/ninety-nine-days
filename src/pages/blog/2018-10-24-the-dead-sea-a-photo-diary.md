@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: 'The Dead Sea: A Photo Diary'
+featuredImage: /img/the-dead-sea-1.png
 date: 2018-10-24T12:55:12.738Z
 description: August 2018
 tags:
@@ -8,8 +9,6 @@ tags:
   - The Middle East
   - The Dead Sea
 ---
-![null](/img/the-dead-sea-1.png)
-
 Floating in the Dead Sea had been on my bucket list for years: the idea of a sea so salty that you floated seemed pretty surreal. We visited the Dead Sea on the Jordanian side, on a day trip from Amman.
 
 ![null](/img/the-dead-sea-2.png)
