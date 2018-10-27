@@ -3,6 +3,8 @@ import PropTypes from "prop-types";
 import { kebabCase } from "lodash";
 import Helmet from "react-helmet";
 import { graphql, Link } from "gatsby";
+import Img from "gatsby-image";
+
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
 
@@ -12,6 +14,7 @@ export const BlogPostTemplate = ({
   description,
   tags,
   title,
+  featuredImage,
   helmet
 }) => {
   const PostContent = contentComponent || Content;
@@ -19,12 +22,12 @@ export const BlogPostTemplate = ({
   return (
     <article className="pb5">
       {helmet || ""}
-      <header className="avenir tc-l ph3 ph4-ns pt4 pt5-ns">
-        <h1 className="f3 f2-m f-subheadline-l measure lh-title fw1 mt0">
-          {title}
-        </h1>
-        <time className="f5 f4-l db fw1 mb4">{description}</time>
-      </header>
+      <h1 className="f3 f2-m f-subheadline-l measure lh-title fw1 mt0">
+        {title}
+      </h1>
+      <Img fluid={featuredImage.childImageSharp.fluid} />
+
+      <time className="f5 f4-l db fw1 mb4">{description}</time>
       <div className="">
         <div className="measure db center lh-copy">
           <PostContent content={content} />
@@ -71,6 +74,7 @@ const BlogPost = ({ data }) => {
         helmet={<Helmet title={`${post.frontmatter.title} | Blog`} />}
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
+        featuredImage={post.frontmatter.featuredImage}
       />
     </Layout>
   );
@@ -94,6 +98,13 @@ export const pageQuery = graphql`
         title
         description
         tags
+        featuredImage {
+          childImageSharp {
+            fluid(maxWidth: 700) {
+              src
+            }
+          }
+        }
       }
     }
   }
