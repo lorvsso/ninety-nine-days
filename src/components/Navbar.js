@@ -10,9 +10,6 @@ const Navbar = () => (
       ninety-nine days
     </Link>
     <div className="tc pb5">
-      <Link className="link dim gray f6 f5-ns mr3 dib" to="/about">
-        About
-      </Link>
       <Link
         className="link dim gray f6 f5-ns mr3 dib"
         to="tags/africa"
@@ -36,6 +33,12 @@ const Navbar = () => (
       </Link>
       <Link className="link dim gray f6 f5-ns mr3 dib" to="tags/europe">
         Europe
+      </Link>
+      <Link
+        className="link dim gray f6 f5-ns mr3 dib"
+        to="tags/the-middle-east"
+      >
+        Middle East
       </Link>
       <Link
         className="link dim gray f6 f5-ns dib"
