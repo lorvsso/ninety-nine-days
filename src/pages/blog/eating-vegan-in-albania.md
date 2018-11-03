@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Eating Vegan in Albania
-featuredImage: /img/img_3466-3.jpg
+featuredImage: /img/img_3616.jpg
 date: 2018-10-24T13:35:49.067Z
 description: July 2018
 tags:
