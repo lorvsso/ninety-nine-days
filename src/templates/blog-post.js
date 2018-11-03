@@ -26,20 +26,18 @@ export const BlogPostTemplate = ({
       <h1 className="tc">{title}</h1>
 
       <p className="tc">{description}</p>
-      <div className="mw6 center">
+      <div className="measure center f4 content">
         <PostContent content={content} />
         {tags && tags.length ? (
-          <div>
-            <ul className="list flex pl0">
-              {tags.map(tag => (
-                <li className="mr3" key={tag + `tag`}>
-                  <Link className="dark-gray" to={`/tags/${kebabCase(tag)}/`}>
-                    {tag}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </div>
+          <ul className="list flex justify-center pl0 mt5">
+            {tags.map(tag => (
+              <li className="mr3" key={tag + `tag`}>
+                <Link className="dark-gray" to={`/tags/${kebabCase(tag)}/`}>
+                  {tag}
+                </Link>
+              </li>
+            ))}
+          </ul>
         ) : null}
       </div>
     </article>
