@@ -21,7 +21,7 @@ export const BlogPostTemplate = ({
   return (
     <article className="pb5">
       {helmet || ""}
-      <img src={featuredImage} alt="" style={{ margin: "0 10px" }} />
+      <img src={featuredImage} alt="" className="ml2-ns mr2-ns" />
 
       <h1 className="tc regular f2 mt5">{title}</h1>
 
