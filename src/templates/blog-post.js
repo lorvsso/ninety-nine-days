@@ -61,7 +61,12 @@ const BlogPost = ({ data }) => {
         content={post.html}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
-        helmet={<Helmet title={`${post.frontmatter.title} | Blog`} />}
+        helmet={
+          <Helmet
+            title={`${post.frontmatter.title} | ninety-nine days`}
+            description={post.excerpt}
+          />
+        }
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
         featuredImage={post.frontmatter.featuredImage}
@@ -83,6 +88,7 @@ export const pageQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       id
       html
+      excerpt
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         title
