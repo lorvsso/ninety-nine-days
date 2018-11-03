@@ -18,8 +18,6 @@ export default class IndexPage extends React.Component {
                 {/* <span className="absolute">{post.frontmatter.title}</span> */}
               </Link>
             ))}
-
-            {/* todo: delete this */}
           </div>
         </section>
       </Layout>
