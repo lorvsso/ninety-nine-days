@@ -11,15 +11,15 @@ export default class IndexPage extends React.Component {
     return (
       <Layout>
         <section className="center">
-          <div class="wrapper">
+          <div class="grid">
             {posts.map(({ node: post }) => (
-              <div className="panel" key={post.id}>
-                <Link className="flex" to={post.fields.slug}>
-                  <img src={post.frontmatter.featuredImage} />
-                  <span className="absolute">{post.frontmatter.title}</span>
-                </Link>
-              </div>
+              <Link className="item" key={post.id} to={post.fields.slug}>
+                <img src={post.frontmatter.featuredImage} />
+                {/* <span className="absolute">{post.frontmatter.title}</span> */}
+              </Link>
             ))}
+
+            {/* todo: delete this */}
           </div>
         </section>
       </Layout>

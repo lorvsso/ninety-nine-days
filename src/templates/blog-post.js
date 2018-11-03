@@ -21,29 +21,26 @@ export const BlogPostTemplate = ({
   return (
     <article className="pb5">
       {helmet || ""}
-      <img src={featuredImage} className="mw8" />
+      <img src={featuredImage} className="" />
 
-      <h1 className="f3 f2-m measure lh-title fw1 mt0">{title}</h1>
+      <h1 className="tc">{title}</h1>
 
-      <time className="f5 f4-l fw1 mb4">{description}</time>
-      <div className="">
-        <div className="mw6">
-          <PostContent content={content} />
-          {tags && tags.length ? (
-            <div style={{ marginTop: `4rem` }}>
-              <h3>Tags</h3>
-              <ul className="list flex pl0">
-                {tags.map(tag => (
-                  <li className="mr3" key={tag + `tag`}>
-                    <Link className="dark-gray" to={`/tags/${kebabCase(tag)}/`}>
-                      {tag}
-                    </Link>
-                  </li>
-                ))}
-              </ul>
-            </div>
-          ) : null}
-        </div>
+      <p className="tc">{description}</p>
+      <div className="mw6 center">
+        <PostContent content={content} />
+        {tags && tags.length ? (
+          <div>
+            <ul className="list flex pl0">
+              {tags.map(tag => (
+                <li className="mr3" key={tag + `tag`}>
+                  <Link className="dark-gray" to={`/tags/${kebabCase(tag)}/`}>
+                    {tag}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+        ) : null}
       </div>
     </article>
   );
