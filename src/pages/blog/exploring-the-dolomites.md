@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Exploring the Dolomites
-featuredImage: /img/dolomites.jpg
+featuredImage: /img/img_8293.jpg
 date: 2018-10-27T09:19:48.161Z
 description: July 2018
 tags:
