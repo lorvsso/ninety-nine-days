@@ -17,7 +17,7 @@ We ventured into the Middle East because I was so charmed by Jordan, but once I 
 \[A sentence or two describing Cairo and the pyramids].
 Cairo is a huge sprawling city and seems so rundown. All the buildings are brown, the smog is really noticeable, and yet on our drive out to Giza we spotted several pockets of lush green farmland.
 
-**Where to stay**
+## **Where to stay**
 
 We moved around when we were in Egypt; we spent a couple of nights in a hostel in Cairo, and then treated ourselves to two nights at the Marriot in Giza.
 
@@ -33,7 +33,7 @@ The security here was really stringent: a sniffer dog inspected the taxi and our
 
 ![null](/img/egypt-3.jpg)
 
-What to do
+## What to do
 
 You can’t really go to Egypt and not see the pyramids. I’d recommend at least 3 hours to explore the pyramids, although we actually visited them over two days and spent a total of around 8 hours there.
 
@@ -43,15 +43,13 @@ If you’re feeling overwhelmed by the hustle and bustle of Cairo, Al Azhar Park
 
 Some of the things that I would have liked to have visited but didn’t get to are 
 
-The Food
+## The Food
 
 Egyptian food is gooood! Just like other areas in the Middle East, falafels. Accompanied by pickles, hummus etc., are the go to option if you’re veg. While we were staying at the Marriot, we did also eat some really good Indian as well as a tasty risotto.
 
 When you’re in central Cairo, you can’t go past Kazaz! It’s a fast food restaurant but serves authentic Egyptian food and is seriously popular with the locals. Falafel pitas were 2.25 EGP which is literally less than 20c!!! This meant that we could both eat a meal for less than $1. An added bonus was that it’s only 100m down the road from Meramees, and for a small fee you can even get it delivered.
 
-\*\*How to get to Egypt
-
- \*\*
+## How to get to Egypt
 
 I was surprised to find out that it’s relatively inexpensive to fly into Cairo from Europe: you should be able to get return flights from Athens, Rome or Paris for around $350 AUD (Aegean Airlines is your best bet).
 
