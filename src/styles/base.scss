@@ -45,6 +45,14 @@ img {
       &:nth-child(3n) {
         grid-column: span 2;
       }
+
+      &:nth-child(9n) {
+        grid-column: span 1;
+      }
+
+      &:nth-child(13n) {
+        grid-area: span 2 / span 2;
+      }
     }
   }
 }
