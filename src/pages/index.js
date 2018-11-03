@@ -2,7 +2,6 @@ import React from "react";
 import PropTypes from "prop-types";
 import { Link, graphql } from "gatsby";
 import Layout from "../components/Layout";
-import Img from "gatsby-image";
 
 export default class IndexPage extends React.Component {
   render() {
@@ -15,22 +14,10 @@ export default class IndexPage extends React.Component {
           <div class="wrapper">
             {posts.map(({ node: post }) => (
               <div className="panel" key={post.id}>
-                <Link className="" to={post.fields.slug}>
-                  <Img
-                    fluid={post.frontmatter.featuredImage.childImageSharp.fluid}
-                  />
+                <Link className="flex" to={post.fields.slug}>
+                  <img src={post.frontmatter.featuredImage} />
+                  <span className="absolute">{post.frontmatter.title}</span>
                 </Link>
-                <p>
-                  {post.frontmatter.title}
-
-                  <Link
-                    className="link f2 link dim gray dib mr3"
-                    to={post.fields.slug}
-                  >
-                    {post.frontmatter.title}
-                  </Link>
-                </p>
-                <p>{post.frontmatter.description}</p>
               </div>
             ))}
           </div>
@@ -66,13 +53,7 @@ export const pageQuery = graphql`
             templateKey
             description
             date(formatString: "MMMM DD, YYYY")
-            featuredImage {
-              childImageSharp {
-                fluid(quality: 100) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
+            featuredImage
           }
         }
       }

@@ -3,7 +3,6 @@ import PropTypes from "prop-types";
 import { kebabCase } from "lodash";
 import Helmet from "react-helmet";
 import { graphql, Link } from "gatsby";
-import Img from "gatsby-image";
 
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
@@ -22,26 +21,21 @@ export const BlogPostTemplate = ({
   return (
     <article className="pb5">
       {helmet || ""}
-      <Img fluid={featuredImage.childImageSharp.fluid} />
+      <img src={featuredImage} className="mw8" />
 
-      <h1 className="f3 f2-m f-subheadline-l measure lh-title fw1 mt0">
-        {title}
-      </h1>
+      <h1 className="f3 f2-m measure lh-title fw1 mt0">{title}</h1>
 
-      <time className="f5 f4-l db fw1 mb4">{description}</time>
+      <time className="f5 f4-l fw1 mb4">{description}</time>
       <div className="">
-        <div className="measure db center lh-copy">
+        <div className="mw6">
           <PostContent content={content} />
           {tags && tags.length ? (
             <div style={{ marginTop: `4rem` }}>
               <h3>Tags</h3>
-              <ul className="list flex">
+              <ul className="list flex pl0">
                 {tags.map(tag => (
-                  <li
-                    className="bg-light-gray sans-serif mr3 pa3 br4"
-                    key={tag + `tag`}
-                  >
-                    <Link className="link" to={`/tags/${kebabCase(tag)}/`}>
+                  <li className="mr3" key={tag + `tag`}>
+                    <Link className="dark-gray" to={`/tags/${kebabCase(tag)}/`}>
                       {tag}
                     </Link>
                   </li>
@@ -99,13 +93,7 @@ export const pageQuery = graphql`
         title
         description
         tags
-        featuredImage {
-          childImageSharp {
-            fluid(quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
+        featuredImage
       }
     }
   }
