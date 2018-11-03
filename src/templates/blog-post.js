@@ -26,7 +26,7 @@ export const BlogPostTemplate = ({
       <h1 className="tc">{title}</h1>
 
       <p className="tc">{description}</p>
-      <div className="measure center f4 content">
+      <div className="mw7 center f4 content">
         <PostContent content={content} />
         {tags && tags.length ? (
           <ul className="list flex justify-center pl0 mt5">
