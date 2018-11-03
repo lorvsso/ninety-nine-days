@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Eating Vegan in Turkey
-featuredImage: ''
+featuredImage: /img/turkish-delight.jpg
 date: 2018-10-26T00:20:53.786Z
 description: August 2018
 tags:
