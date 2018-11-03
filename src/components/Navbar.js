@@ -49,7 +49,7 @@ const Navbar = () => (
       </Link>
       <Link
         className="link dim gray f6 f5-ns dib"
-        to="tags/vegan"
+        to="tags/zero-waste"
         title="Contact"
       >
         Zero&nbsp;Waste
