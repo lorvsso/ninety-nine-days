@@ -13,10 +13,10 @@ const TagsPage = ({
   }
 }) => (
   <Layout>
-    <section className="section">
+    <section className="mw7 center">
       <Helmet title={`Tags | ${title}`} />
-      <h1 className="tc">All tags</h1>
-      <ul className="list flex flex-wrap">
+      <h1 className="tc fw600 f4">All tags</h1>
+      <ul className="list flex justify-center flex-wrap">
         {group.map(tag => (
           <li className="mr3 mb3" key={tag.fieldValue}>
             <Link

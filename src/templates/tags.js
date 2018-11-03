@@ -18,13 +18,20 @@ class TagRoute extends React.Component {
     const totalCount = this.props.data.allMarkdownRemark.totalCount;
     const tagHeader = `${totalCount} post${
       totalCount === 1 ? "" : "s"
-    } tagged with “${tag}”`;
+    } tagged with “${tag}”.`;
 
     return (
       <Layout>
         <Helmet title={`${tag} | ${title}`} />
-        <p>{tagHeader}</p>
-        <section className="center">
+        <p className="tc">
+          {tagHeader}{" "}
+          <Link to="/tags/" className="dark-gray">
+            See all tags
+          </Link>
+          <br />
+        </p>
+
+        <section className="center mt3">
           <div class="grid">
             {posts.map(({ node: post }) => (
               <Link className="item" key={post.id} to={post.fields.slug}>
@@ -34,9 +41,6 @@ class TagRoute extends React.Component {
             ))}
           </div>
         </section>
-        <p>
-          <Link to="/tags/">Browse all tags</Link>
-        </p>
       </Layout>
     );
   }

@@ -10,11 +10,12 @@ export default class IndexPage extends React.Component {
 
     return (
       <Layout>
+        <h1 className="clip">ninety-nine days</h1>
         <section className="center">
           <div class="grid">
             {posts.map(({ node: post }) => (
               <Link className="item" key={post.id} to={post.fields.slug}>
-                <img src={post.frontmatter.featuredImage} />
+                <img src={post.frontmatter.featuredImage} alt="" />
                 {/* <span className="absolute">{post.frontmatter.title}</span> */}
               </Link>
             ))}

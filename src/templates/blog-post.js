@@ -21,11 +21,11 @@ export const BlogPostTemplate = ({
   return (
     <article className="pb5">
       {helmet || ""}
-      <img src={featuredImage} className="" />
+      <img src={featuredImage} alt="" style={{ margin: "0 10px" }} />
 
-      <h1 className="tc">{title}</h1>
+      <h1 className="tc regular f2 mt5">{title}</h1>
 
-      <p className="tc">{description}</p>
+      <p className="tc mb5">{description}</p>
       <div className="mw7 center f4 content">
         <PostContent content={content} />
         {tags && tags.length ? (
