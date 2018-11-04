@@ -14,14 +14,9 @@ class TagRoute extends React.Component {
     return (
       <Layout>
         <Helmet title={`${tag} | ${title}`} />
-
+        <h1 className="f4 tc helvetica fw3 mb5 mt5">{tag}</h1>
         <section className="center mt3">
           <div class="grid">
-            <div
-              className={`tag-item flex justify-center items-center f5 tc helvetica fw3`}
-            >
-              {tag}
-            </div>
             {posts.map(({ node: post }) => (
               <Link className="item bb-0" key={post.id} to={post.fields.slug}>
                 <div class="item-overlay" />
