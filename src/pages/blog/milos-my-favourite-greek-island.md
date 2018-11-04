@@ -55,7 +55,7 @@ Kleftiko:
 
 On our first day we just got the public bus from Admantas Port to Sarkiniko and back. It was only a 10 minute drive and the buses run every two hours and cost ~2 euros.
 
-For the rest of our time on Milos, we hired a moped and rode around from beach to beach - it was so much fun!!!
+For the rest of our time on Milos, we hired a moped and rode around from beach to beach - it was so much fun!!! It's worth noting that we could only hire one because I had an international driver's license and we met some people who had to catch buses/taxis all over because they hadn't been able to hire a moped or quad. If you want to know more about international driver's licenses, I wrote about them here. 
 
 
 
