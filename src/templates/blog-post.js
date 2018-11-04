@@ -21,26 +21,34 @@ export const BlogPostTemplate = ({
   return (
     <article className="pb5">
       {helmet || ""}
-      <img src={featuredImage} alt="" className="ml2-ns mr2-ns" />
+      <img src={featuredImage} alt="" className=" pl2 pr2" />
 
-      <h1 className="tc normal f1 mt5 tc">{title}</h1>
+      <h1 className="tc normal f1-ns f2 mt5 tc lh-title">{title}</h1>
 
       <p className="tc mb5 f5 tc helvetica fw3">— {description} —</p>
-      <div className="mw7 center f4 content">
+      <div className="measure-wide lh-copy center f4-ns f5 content pl2 pr2">
         <PostContent content={content} />
         {tags && tags.length ? (
-          <ul className="list flex justify-center mt5">
-            {tags.map(tag => (
-              <li className="mr3" key={tag + `tag`}>
-                <Link
-                  className="dark-gray f5 tc helvetica fw3 bb-0 pa3"
-                  to={`/tags/${kebabCase(tag)}/`}
-                >
-                  {tag}
-                </Link>
-              </li>
-            ))}
-          </ul>
+          <>
+            <ul className="list flex justify-center items-center flex-wrap mt5 pa0">
+              {tags.map(tag => (
+                <li className="mt0 lh-solid" key={tag + `tag`}>
+                  <Link
+                    className="dark-gray f5 tc helvetica fw3 bb-0 pa3"
+                    to={`/tags/${kebabCase(tag)}/`}
+                  >
+                    {tag}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+            <Link
+              className="dark-gray f6 helvetica fw3 bb-0 flex justify-center "
+              to="/tags"
+            >
+              view all tags
+            </Link>
+          </>
         ) : null}
       </div>
     </article>

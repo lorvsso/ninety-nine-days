@@ -10,6 +10,7 @@ tags:
   - Africa
   - The Middle East
 ---
+
 We ventured into the Middle East because I was so charmed by Jordan, but once I realised that Cairo was less than 1000km from Amman, I couldn’t let go of the idea of exploring the pyramids. Given that this was an add on to our planned trip to Jordan, we didn’t have nearly as long as I otherwise would have wante - Egypt has so much more to offer than the pyramids! We settled for 4 days in Cairo and Giza, which ended up being a really lovely amount of time there, but definitely left us wanting to see more of Egypt; although I was a little intimidated by Egypt initially, I felt really comfortable traveling there and would love to go back and see more of the country. Top of my list is to go diving or snorkelling in Dahab, and to explore ancient wonders in Luxor, Abu Simbel and Aswan.
 
 ![null](/img/egypt-2.jpg)
@@ -17,7 +18,7 @@ We ventured into the Middle East because I was so charmed by Jordan, but once I 
 \[A sentence or two describing Cairo and the pyramids].
 Cairo is a huge sprawling city and seems so rundown. All the buildings are brown, the smog is really noticeable, and yet on our drive out to Giza we spotted several pockets of lush green farmland.
 
-## **Where to stay**
+## Where to stay
 
 We moved around when we were in Egypt; we spent a couple of nights in a hostel in Cairo, and then treated ourselves to two nights at the Marriot in Giza.
 
@@ -27,7 +28,7 @@ If you’re looking for something a little more bougie, I can’t recommend Giza
 
 If you decide to stay there, request room 438 – it’s on the top floor and at the perfect angle to have an incredible view of the pyramids.
 
-We scored a last minute deal on Booking.com 
+We scored a last minute deal on Booking.com
 
 The security here was really stringent: a sniffer dog inspected the taxi and our luggage when we arrived, and to enter into the reception and the hotel room building, our baggage had to be scanned and we had to go through a metal detector.
 
@@ -41,7 +42,7 @@ The Egyptian Museum is a pretty magical place and it’s incredible just how man
 
 If you’re feeling overwhelmed by the hustle and bustle of Cairo, Al Azhar Park, right in the city centre, is the perfect respite, and a really lovely place to spend a few hours relaxing. The park is filled with families picnicking, children playing in water fountains and young couples. It truly showcases Egypt as a family oriented, friendly country.
 
-Some of the things that I would have liked to have visited but didn’t get to are 
+Some of the things that I would have liked to have visited but didn’t get to are
 
 ## The Food
 

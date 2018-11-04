@@ -110,13 +110,21 @@ main {
 
 .item-details p {
   color: #fff;
-  font-size: 0.8em;
 }
 
 .content {
-  line-height: 1.35;
+  h2 {
+    font-weight: 400;
+    margin: 1.5em 0;
+  }
 }
 
 article {
   margin: 0 auto;
+}
+
+.logo {
+  &:focus {
+    outline: none;
+  }
 }

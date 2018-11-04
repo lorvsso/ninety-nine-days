@@ -18,10 +18,10 @@ const TagsPage = ({
       <h1 className="f4 tc helvetica fw3 mb5 mt5">All tags</h1>
       <ul className="list flex justify-center flex-wrap">
         {group.map(tag => (
-          <li className="mr3 mb3" key={tag.fieldValue}>
+          <li className="mr4 mb4" key={tag.fieldValue}>
             <Link
               to={`/tags/${kebabCase(tag.fieldValue)}/`}
-              className="dark-gray"
+              className="dark-gray helvetica fw3 bb-0"
             >
               {tag.fieldValue}
               &nbsp;(
