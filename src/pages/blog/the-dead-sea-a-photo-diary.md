@@ -23,7 +23,7 @@ The water was 36 degrees and the outside temperature was 34 degrees. Don’t for
 
 ![null](/img/the-dead-sea-6.png)
 
-We couldn’t resist lathering ourselves in mud which is rich in calcium, magnesium, sodium and calcium and believed to be healing. It cost 3JD each (~$6AUD).
+We couldn’t resist lathering ourselves in mud which is rich in calcium, magnesium, sodium and calcium and believed to have healing properties. It cost 3JD each (~$6AUD).
 
 ![null](/img/the-dead-sea-7.png)
 
