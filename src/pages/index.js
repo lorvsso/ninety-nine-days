@@ -14,9 +14,13 @@ export default class IndexPage extends React.Component {
         <section className="center">
           <div class="grid">
             {posts.map(({ node: post }) => (
-              <Link className="item" key={post.id} to={post.fields.slug}>
+              <Link className="item bb-0" key={post.id} to={post.fields.slug}>
+                <div class="item-overlay" />
                 <img src={post.frontmatter.featuredImage} alt="" />
-                {/* <span className="absolute">{post.frontmatter.title}</span> */}
+                <div class="item-details">
+                  <h3 class="item-title f4 normal">{post.frontmatter.title}</h3>
+                  <p class="item-text">{post.frontmatter.description}</p>
+                </div>
               </Link>
             ))}
           </div>

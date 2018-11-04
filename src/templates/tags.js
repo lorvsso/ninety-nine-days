@@ -6,37 +6,30 @@ import Layout from "../components/Layout";
 class TagRoute extends React.Component {
   render() {
     const posts = this.props.data.allMarkdownRemark.edges;
-    // const postLinks = posts.map(post => (
-    //   <li key={post.node.fields.slug}>
-    //     <Link to={post.node.fields.slug}>
-    //       <h2 className="is-size-2">{post.node.frontmatter.title}</h2>
-    //     </Link>
-    //   </li>
-    // ));
+
     const tag = this.props.pageContext.tag;
     const title = this.props.data.site.siteMetadata.title;
-    const totalCount = this.props.data.allMarkdownRemark.totalCount;
-    const tagHeader = `${totalCount} post${
-      totalCount === 1 ? "" : "s"
-    } tagged with “${tag}”.`;
+    // const totalCount = this.props.data.allMarkdownRemark.totalCount;
 
     return (
       <Layout>
         <Helmet title={`${tag} | ${title}`} />
-        <p className="tc">
-          {tagHeader}{" "}
-          <Link to="/tags/" className="dark-gray">
-            See all tags
-          </Link>
-          <br />
-        </p>
 
         <section className="center mt3">
           <div class="grid">
+            <div
+              className={`tag-item flex justify-center items-center f5 tc helvetica fw3`}
+            >
+              {tag}
+            </div>
             {posts.map(({ node: post }) => (
-              <Link className="item" key={post.id} to={post.fields.slug}>
-                <img src={post.frontmatter.featuredImage} />
-                {/* <span className="absolute">{post.frontmatter.title}</span> */}
+              <Link className="item bb-0" key={post.id} to={post.fields.slug}>
+                <div class="item-overlay" />
+                <img src={post.frontmatter.featuredImage} alt="" />
+                <div class="item-details fadeIn-bottom">
+                  <h3 class="item-title f4 normal">{post.frontmatter.title}</h3>
+                  <p class="item-text">{post.frontmatter.description}</p>
+                </div>
               </Link>
             ))}
           </div>
