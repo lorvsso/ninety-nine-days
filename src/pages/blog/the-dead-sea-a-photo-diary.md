@@ -9,7 +9,7 @@ tags:
   - The Middle East
   - The Dead Sea
 ---
-Floating in the Dead Sea had been on my bucket list for years: the idea of a sea so salty that you floated seemed pretty surreal. We visited the Dead Sea on the Jordanian side, on a day trip from Amman. On the trip we also visited Mount Nebo (the place where, according to the bible, Moses was shown the Promised Land) and Madaba. We organised this day trip through Cliff Hotel.
+Floating in the Dead Sea had been on my bucket list for years: the idea of a sea so salty that you floated seemed pretty surreal. We visited the Dead Sea on the Jordanian side, on a day trip from Amman. On the trip we also visited Mount Nebo (the place where, according to the bible, Moses was shown the Promised Land) and Madaba. We organised this day trip through [Cliff Hotel](http://cliff-hotel.amman-hotels-jo.com/en/).
 
 ![null](/img/the-dead-sea-2.png)
 
