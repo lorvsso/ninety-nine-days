@@ -23,7 +23,7 @@ On our first day in Milos we stumbled across [Artermis Bakery](https://www.googl
 
 On our first night, we wandered down to the seaside to check out a cute little restaurant, lit up by fairy lights, that we’d driven past earlier that day. Mikros Apoplous, Apodo and Trapatseles are all next to each other and offer a similar menu. We chose to eat at Apodo because their vegan options looked the best. We happily watched the sunset while eating beautiful stuffed tomatoes and capsicums with Greek oven baked potatoes. We had such a lovely time that we came back every single night. It was great value too – a starter and two mains always came in at less than 20 euros.
 
-![](/img/milos-food.jpg)
+![null](/img/milos-food.jpg)
 
 ## What we did
 
@@ -33,23 +33,13 @@ Sarakiniko: the one that’s really the moon. Sarakiniko is probably the most ic
 
 I loved Sarakiniko so much that I insisted we visit it three times.
 
-
-
 The major drawback of Sarakiniko was the amount of plastic rubbish there was in the water. Right in the area where everyone was swimming, there was a mini island of plastic that had formed. 
-
-
 
 Papafragkas: 
 
-
-
 Tsigrado:
 
-
-
 Kleftiko:
-
-
 
 ## How we got around
 
@@ -57,12 +47,10 @@ On our first day we just got the public bus from Admantas Port to Sarkiniko and 
 
 For the rest of our time on Milos, we hired a moped and rode around from beach to beach - it was so much fun!!! It's worth noting that we could only hire one because I had an international driver's license and we met some people who had to catch buses/taxis all over because they hadn't been able to hire a moped or quad. If you want to know more about international driver's licenses, I wrote about them here. 
 
-
-
 ## How we got to & from Milos
 
 Milos is part of the Cyclades group and is well connected by both air and sea. Since it was the first island we visited, we decided to fly there from Athens (otherwise the ferry takes around 7 hours). We flew with Sky Express and the flight was only 20 minutes long (on a tiny plane that I wasn't too stoked about). We paid $130 per person for the flight.
 
 After Milos we headed to Ios by ferry which took 3 hours and 15 minutes. I found the ferries in Greece to be frustratingly expensive since it was high season - we paid 50 euros each (~$77AUD) for this ferry.
 
-Milos is well connected by ferry to all of the Cyclades islands so you shouldn't have any trouble getting around.
+Milos is well connected by ferry to all of the Cyclades islands so you shouldn't have any trouble hopping from island to island.
