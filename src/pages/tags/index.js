@@ -15,7 +15,7 @@ const TagsPage = ({
   <Layout>
     <section className="mw7 center">
       <Helmet title={`Tags | ${title}`} />
-      <h1 className="tc fw600 f4">All tags</h1>
+      <h1 className="f4 tc helvetica fw3 mb5 mt5">All tags</h1>
       <ul className="list flex justify-center flex-wrap">
         {group.map(tag => (
           <li className="mr3 mb3" key={tag.fieldValue}>

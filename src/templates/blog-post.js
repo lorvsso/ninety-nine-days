@@ -23,16 +23,19 @@ export const BlogPostTemplate = ({
       {helmet || ""}
       <img src={featuredImage} alt="" className="ml2-ns mr2-ns" />
 
-      <h1 className="tc regular f2 mt5">{title}</h1>
+      <h1 className="tc normal f1 mt5 tc">{title}</h1>
 
-      <p className="tc mb5">{description}</p>
+      <p className="tc mb5 f5 tc helvetica fw3">— {description} —</p>
       <div className="mw7 center f4 content">
         <PostContent content={content} />
         {tags && tags.length ? (
-          <ul className="list flex justify-center pl0 mt5">
+          <ul className="list flex justify-center mt5">
             {tags.map(tag => (
               <li className="mr3" key={tag + `tag`}>
-                <Link className="dark-gray" to={`/tags/${kebabCase(tag)}/`}>
+                <Link
+                  className="dark-gray f5 tc helvetica fw3 bb-0 pa3"
+                  to={`/tags/${kebabCase(tag)}/`}
+                >
                   {tag}
                 </Link>
               </li>
