@@ -41,7 +41,7 @@ We spent around an hour just wandering around the gardens, admiring all of the f
 
 ![](/img/mg4.jpg)
 
-Once we were satisfied that we’d fully explored Monet’s house and gardens, we walked along to the huge pond filled with water lilies and the famous bridge. It was so cool to visit somewhere that was such a big inspiration for so many of Monet’s paintings.
+Once we were satisfied that we’d fully explored Monet’s house and gardens, we walked along to the huge pond filled with water lilies and the famous Japanese bridge. It was so cool to visit somewhere that was such a big inspiration for so many of Monet’s paintings.
 
 ![](/img/mg9.jpg)
 
