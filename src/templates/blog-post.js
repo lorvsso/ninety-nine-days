@@ -25,7 +25,7 @@ export const BlogPostTemplate = ({
 
       <h1 className="tc normal f1-ns f2 mt5 tc lh-title">{title}</h1>
 
-      <p className="tc mb5 f5 tc helvetica fw3">— {description} —</p>
+      <p className="tc mb5 f5 tc helvetica fw3 black-60">— {description} —</p>
       <div className="measure-wide lh-copy center f4-ns f5 content pl2 pr2">
         <PostContent content={content} />
         {tags && tags.length ? (
@@ -34,7 +34,7 @@ export const BlogPostTemplate = ({
               {tags.map(tag => (
                 <li className="mt0 lh-solid" key={tag + `tag`}>
                   <Link
-                    className="dark-gray f5 tc helvetica fw3 bb-0 pa3"
+                    className="black-60 f5 tc helvetica fw3 bb-0 pa3"
                     to={`/tags/${kebabCase(tag)}/`}
                   >
                     {tag}
@@ -43,7 +43,7 @@ export const BlogPostTemplate = ({
               ))}
             </ul>
             <Link
-              className="dark-gray f6 helvetica fw3 bb-0 flex justify-center "
+              className="black-60 f6 helvetica fw3 bb-0 flex justify-center "
               to="/tags"
             >
               view all tags

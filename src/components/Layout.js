@@ -2,7 +2,6 @@ import React from "react";
 import Helmet from "react-helmet";
 
 import Navbar from "../components/Navbar";
-import Footer from "../components/Footer";
 
 import "../styles/base.scss";
 
@@ -21,7 +20,6 @@ const TemplateWrapper = ({ children }) => (
     </Helmet>
     <Navbar />
     <main>{children}</main>
-    <Footer />
   </div>
 );
 

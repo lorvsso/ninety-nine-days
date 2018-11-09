@@ -21,7 +21,7 @@ const TagsPage = ({
           <li className="mr4 mb4" key={tag.fieldValue}>
             <Link
               to={`/tags/${kebabCase(tag.fieldValue)}/`}
-              className="dark-gray helvetica fw3 bb-0"
+              className="black-60 helvetica fw3 bb-0"
             >
               {tag.fieldValue}
               &nbsp;(

@@ -18,7 +18,7 @@ export default class IndexPage extends React.Component {
                 <div class="item-overlay" />
                 <img src={post.frontmatter.featuredImage} alt="" />
                 <div class="item-details">
-                  <h3 class="item-title f4 normal">{post.frontmatter.title}</h3>
+                  <h2 class="item-title f4 normal">{post.frontmatter.title}</h2>
                   <p class="item-text">{post.frontmatter.description}</p>
                 </div>
               </Link>

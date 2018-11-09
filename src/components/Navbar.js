@@ -28,25 +28,26 @@ const Navbar = () => (
       </svg>
     </Link>
     <div className="tc mb4-ns mb4 f6 f5-ns">
-      <Link className="link dim dark-gray mr3 dib mb0-ns mb2" to="tags/africa">
+      {/* TODO: find the lightest gray color that passes accessibility contrast checkers (jxnblk or mrmrs has a site) */}
+      <Link className="link dim black-60 mr3 dib mb0-ns mb2" to="tags/africa">
         Africa
       </Link>
-      <Link className="link dim dark-gray mr3 dib" to="tags/asia">
+      <Link className="link dim black-60 mr3 dib" to="tags/asia">
         Asia
       </Link>
-      <Link className="link dim dark-gray mr3 dib" to="tags/central-america">
+      <Link className="link dim black-60 mr3 dib" to="tags/central-america">
         Central&nbsp;America
       </Link>
-      <Link className="link dim dark-gray mr3 dib" to="tags/europe">
+      <Link className="link dim black-60 mr3 dib" to="tags/europe">
         Europe
       </Link>
-      <Link className="link dim dark-gray mr3 dib" to="tags/the-middle-east">
+      <Link className="link dim black-60 mr3 dib" to="tags/the-middle-east">
         Middle&nbsp;East
       </Link>
-      <Link className="link dim dark-gray mr3 dib" to="tags/vegan">
+      <Link className="link dim black-60 mr3 dib" to="tags/vegan">
         Vegan
       </Link>
-      <Link className="link dim dark-gray dib" to="tags/zero-waste">
+      <Link className="link dim black-60 dib" to="tags/zero-waste">
         Zero&nbsp;Waste
       </Link>
     </div>
