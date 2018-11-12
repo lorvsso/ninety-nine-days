@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'The Dead Sea: A Photo Diary'
-featuredImage: /img/the-dead-sea-1.png
+featuredImage: /img/dead-sea-feature-image.jpg
 date: 2018-10-24T12:55:12.738Z
 description: August 2018
 tags:
