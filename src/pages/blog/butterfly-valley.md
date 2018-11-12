@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Butterfly Valley (Paradise)
-featuredImage: /img/img_5002.jpg
+featuredImage: /img/butterfly-valley-feature-image.jpg
 date: 2018-11-03T13:48:22.204Z
 description: August 2018
 tags:
