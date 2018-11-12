@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Visiting Monet's Gardens
-featuredImage: /img/img_7401.jpg
+featuredImage: /img/monet-s-garden-feature-image.jpg
 date: 2018-10-24T14:01:13.037Z
 description: June 2018
 tags:

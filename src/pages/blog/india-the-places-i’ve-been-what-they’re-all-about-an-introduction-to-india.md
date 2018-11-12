@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'India: The Places I’ve Been & What They’re All About'
-featuredImage: /img/agra.jpg
+featuredImage: /img/intro-to-india-feature-image.jpg
 date: 2018-11-03T09:29:27.797Z
 description: 2013 - 2018
 tags:
