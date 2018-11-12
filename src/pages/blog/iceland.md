@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Iceland
+title: 'The Ring Road, Iceland'
 featuredImage: /img/iceland-feature-image.jpg
 date: 2018-11-03T14:23:59.023Z
 description: July 2017
