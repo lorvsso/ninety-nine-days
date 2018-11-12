@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Jaipur: The Pink City'
-featuredImage: /img/img_9408.jpg
+featuredImage: /img/jaipur-feature-image.jpg
 date: 2018-11-03T14:00:19.669Z
 description: November 2017
 tags:
