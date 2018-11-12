@@ -29,4 +29,4 @@ If you’re not vegan, and you’re wondering what to expect, since Albania is b
 
 Don’t be afraid of visiting – you won’t starve. Just prepare yourself for a week of pizza and fries. It also wouldn’t go astray to translate how to say “no cheese” just to be sure that your pizza comes out the way you want it (we experienced a few awkward misunderstandings). Albania’s beauty more than makes up for the lack of vegan food!
 
-![](/img/albania-beach.jpg)
+![null](/img/albania-beach.jpg)
