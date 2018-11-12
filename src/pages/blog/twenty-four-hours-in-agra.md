@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Twenty-Four Hours in Agra
-featuredImage: /img/agra-feature-image.jpg
+featuredImage: /img/img_7870.jpg
 date: 2018-11-08T06:56:47.913Z
 description: 2013 - 2018
 tags:
