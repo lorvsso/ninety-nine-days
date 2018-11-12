@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Cairo & The Pyramids of Giza
-featuredImage: /img/egyypt-1.jpg
+featuredImage: /img/cairo-feature-image.jpg
 date: 2018-10-24T14:11:17.183Z
 description: September 2018
 tags:
