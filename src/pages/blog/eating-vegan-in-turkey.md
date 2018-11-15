@@ -9,28 +9,38 @@ tags:
   - Middle East
   - Vegan
 ---
-Eating vegan in Turkey was a dream – easy, cheap and super tasty. We were able to eat a good variety of food, got in lots of veggies (something we struggled with in other countries) and it was really easy to 'veganise' lots of the traditional Turkish dishes.
+Eating vegan in Turkey was a dream – easy, cheap and super tasty. We were able to eat a total mix of food, got in lots of veggies (something we struggled with in other countries in Europe) and it was really easy to ‘veganise’ a lot of the traditional Turkish dishes. 
 
 ## Our go-to meals
 
-Turkish delight - I have been obsessed with Turkish delight since I was little. I assumed that Turkish Delight would contain gelatine, and had reconciled myself to the fact that I wouldn’t be able to eat any. One day in Fethiye, I thought that I may’s well check the ingredients, just to be sure. I was ridiculously excited to discover that Turkish Delight is in fact vegan (at least at all the places we saw it) because they make it from corn starch rather than gelatine. In Fethiye they sold fresh logs of rose and pomegranate Turkish Delight covered in pistachios, and we pretty much spent the next two weeks absolutely gorging ourselves.
+**Turkish delight **
 
-Gozleme - gozleme was another food that we assumed wouldn’t be vegan. We discovered though, that the ‘bread’ part of the gozleme is more a dough rather than batter, and is normally just made with flour and water. Inside, we would just opt for the vegan fillings: spinach, potato and tomato are all popular options. This was such a delicious meal, especially when it was served with a wedge of lemon and a sprinkle of salt and pepper. It's worth clarifying though that you don't want any cheese, just to be sure.
+I have been obsessed with Turkish delight since I was young. I assumed that Turkish Delight would contain gelatine, and had reconciled myself to the fact that I wouldn’t be able to eat it. One day in Fethiye, I thought that I may’s well check the ingredient list, just to be sure. I was ridiculously excited to discover that ‘regular’ Turkish Delight is in fact vegan (at least all the places we saw it). In Fethiye they sold fresh logs of rose and pomegranate Turkish Delight covered in pistachios, and we pretty much spent the next two weeks absolutely gorging ourselves.
 
-Pide - essentially a Turkish twist on pizza, pide is normally served with minced meat and cheese. Most menus had a vegetarian pide as an option so we ordered that and asked for no cheese. This really weirded out the waiters, but it tasted good and was filling. Again, even better when served with a wedge of lemon and a sprinkle of salt and pepper.
+**Gozleme**
 
-Veggie clay pot - 
+Gozleme was another food that we assumed wouldn’t be vegan, and wouldn’t be easy to ‘veganise’. We discovered though, that the ‘bread’ part of the gozleme is more a dough rather than batter, and is normally just made with flour and water. Inside, we would just opt for the vegan options – spinach, potato and tomato are all popular fillings. This was such a delicious meal, and to make it even better, we asked for a wedge of lemon and sprinkled over some salt and pepper. It’s worth clarifying that you don’t want any cheese though!
+
+**Pide**
+
+Essentially a Turkish twist on a pizza, pide is normally served with minced meat and cheese. Most menus had a vegetarian pide as an option so we ordered that and asked for no cheese. This really weirded out the waiters, but it tasted good and was filling. Again, even better when served with a wedge of lemon.	
+
+**Veggie Clay Pot**
+
+We only ordered a couple, but clay pots are so fun to order because they bring the dish out and then crack open the clay pot right in front of you. The vegetarian ones are naturally dairy and egg free and are full of roast veggies which is served on a bed of rice.
 
 ## Our favourite meals
 
-Sultan Cave Suites served up an incredible breakfast spread. A buffet breakfast was included in the price of the room and it was so so good. 
+We ate well across the entire country, but these are some of the restaurants or cafés that deserve a special mention.
 
-The meals that we ate at [Butterfly Valley](https://www.ninetyninedays.com.au/blog/butterfly-valley/) were amazing.
+Sultan Cave Suites served up an incredible breakfast spread. A buffet breakfast was included in the price of the room and it was so, so good. We ate piles of hummus, roast potatoes, salad, olives and eggplant, and that was only round one. For round 2, we loaded up a plate full of sweets – dried figs and mulberries, fruit, and Turkish Delight. Any buffet that has Turkish Delight on offer gets 10 from me.
 
-Kabak Valley also had really nice food.
+The meals that we ate at Butterfly Valley were amazing. For $18 AUD, a campsite with showers and a buffet dinner and breakfast were provided. Probably the best value we’ve had on this entire trip. The dinner buffet was 90% vegan (and all vegetarian) and was some of the freshest and healthiest food we ate on our whole trip. Countless salads, pasta bake, black beans, rice, potatoes, olives, hummus, baba ganoush and tapenade was all on offer. Breakfast was slightly less impressive, but there was still plenty to eat – we ate tomatoes, olives, cucumber and bread rolls.
 
-Little pide shop in Fethiye
+Kabak Valley also had really nice food. Although a little less impressive than Butterfly Valley, again, dinner and breakfast was included and was a buffet affair.
+
+We ate at one little pide shop in Fethiye about six times, just because there was the same waiter there each time and when we arrived he’d say “No cheese right?”. The pides were good and they always brought lemon out for us. Not to mention that they were literally $3AUD.
 
 ## How much we spent
 
-Overall, food was inexpensive and we were able to eat well for very little money. A lot of the places we stayed at had breakfast included, and we spent \~$10AUD per person on lunch and dinner. On average, pide and gozleme were around 15-20TRY (\~$3-4AUD) and turkish delight was 15TRY (~$3AUD) for a big log.
+Overall, food was inexpensive and we were able to eat well for very little money. A lot of the places we stayed at had breakfast included, and we spent \~$10AUD per person on lunch and dinner. On average, pide and gozleme were around 15-20TRY (\~$3-4AUD) and Turkish delight was 15TRY (~$3AUD) for a big log.
