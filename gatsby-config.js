@@ -4,6 +4,7 @@ module.exports = {
   },
   plugins: [
     "gatsby-plugin-react-helmet",
+    "gatsby-plugin-sass",
     {
       resolve: "gatsby-source-filesystem",
       options: {
@@ -23,10 +24,9 @@ module.exports = {
       resolve: "gatsby-plugin-netlify-cms",
       options: {
         modulePath: `${__dirname}/src/cms/cms.js`,
-        stylesPath: `${__dirname}/src/styles/base.css`
+        stylesPath: `${__dirname}/src/styles/base.scss`
       }
     },
-    "gatsby-plugin-sass",
     "gatsby-plugin-netlify-cache",
     "gatsby-plugin-netlify" // make sure to keep it last in the array
   ]
