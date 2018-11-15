@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: India on Film
-featuredImage: /img/india-on-film-feature-image.jpg
+featuredImage: /img/film-14.jpg
 date: 2018-11-08T07:14:36.170Z
 description: November & December 2017
 tags:
