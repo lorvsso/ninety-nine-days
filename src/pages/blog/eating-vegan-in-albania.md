@@ -13,7 +13,7 @@ Albania is an amazing country to visit; full of friendly people and stunning coa
 
 The week that we were in Albania, we pretty much just ate pizza with no cheese, and fries. This wasn’t terrible, but it definitely became monotonous and didn’t leave us feeling our best. We checked out Happy Cow when we got to each city or town, but there were barely any listings. The one good thing was that fresh fruit was widely available, so most mornings we started the day with a couple of bananas and some raspberries.
 
-The one meal we ate that's worth mentioning was a dinner we had at a fancy restaurant in Berat named [Antigoni](https://antigoni-restaurant.business.site/). We ate roast vegetables stuffed with rice, a really nice eggplant dish and olives. It was really good.
+The one meal we ate that's worth mentioning was a dinner we had at a fancy restaurant in Berat named [Antigoni](https://antigoni-restaurant.business.site/). We ate roast vegetables stuffed with rice, a really nice eggplant dish and olives. 
 
 ![null](/img/img_9589.jpg)
 
