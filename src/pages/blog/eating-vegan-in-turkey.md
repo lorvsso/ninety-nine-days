@@ -39,7 +39,7 @@ The meals that we ate at [Butterfly Valley](https://www.ninetyninedays.com.au/b
 
 [Kabak Valley](http://www.reflectionscamp.com/) also had really nice food. Although a little less impressive than Butterfly Valley, again, dinner and breakfast was included and was a buffet affair.
 
-We ate at one little pide shop in Fethiye about six times, just because there was the same waiter there each time and when we arrived he’d say “No cheese right?”. The pides were good and they always brought lemon out for us. Not to mention that they were literally $3AUD.
+We ate at [one little pide shop](https://www.google.lk/maps/place/Nefis+Pide+Salonu/@36.6216806,29.1088051,18z/data=!4m12!1m6!3m5!1s0x0:0xdb22931509d6903d!2sSakura+Hostel+%26+Pub!8m2!3d36.62187!4d29.109068!3m4!1s0x14c041541b1b995d:0xe2d46a89b05cbae7!8m2!3d36.6215523!4d29.1086418) in Fethiye about six times, just because there was the same waiter there each time and when we arrived he’d say “No cheese right?”. The pides were good and they always brought lemon out for us. Not to mention that they were literally $3AUD.
 
 ## How much we spent
 
