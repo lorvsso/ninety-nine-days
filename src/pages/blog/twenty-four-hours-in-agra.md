@@ -13,9 +13,17 @@ Home to the Taj Mahal, Agra is one of the most visited cities in India, yet is p
 
 Ideally, I’d recommend arriving into Agra in the evening, staying the night, waking up early the next morning to visit the Taj, and then spending the day sightseeing in Agra before taking a bus or train to your next destination that evening. 
 
+![](/img/img_8135.jpg)
+
 There’s not a lot do in Agra after dark, so the evening you arrive into Agra I’d suggest grabbing dinner and having an early night so you’re fresh for the morning. In terms of where to stay in Agra, I don’t think you can really get better value than [Hotel Kamal](http://www.hotelkamal.com/). I’ve stayed there three times before, and their location is as good as it gets – if you head up to the rooftop (where they also have a restaurant) there are great views of the Taj. The rooms are cheap (a double room costs $9AUD per person) and it’s literally a 3-minute walk to the Eastern Gate of the Taj Mahal. Wi-Fi is fast (although it’s not in all rooms), and the hot showers are some of the best I’ve had in India. 
 
+![](/img/img_8130.jpg)
+
 I’ve written in detail about [the best way to visit the Taj Mahal](https://www.ninetyninedays.com.au/blog/the-taj-mahal/), but in short, I’d recommend arriving at the Eastern Gate by 5:45am and planning to stay until around 9am. After this, sit down for breakfast, preferably somewhere that has a view of the Taj, and then you can start exploring Agra’s sights. 
+
+![](/img/img_8136.jpg)
+
+![](/img/img_8134.jpg)
 
 It’s probably best to map out the sites that you want to visit, and then find a tuk tuk driver to take you to all the places you want to go and wait for you at each. Last time I was there, Kate and I went out for 4 or 5 hours, and we paid 500 rupees (~$5AUD each).
 
@@ -25,9 +33,19 @@ Agra Fort is a UNESCO World Heritage site and is pretty incredible – it’s es
 
 Tomb of I’timad-ud-Daulah, affectionately known as the Baby Taj, is a really cool sight. The mausoleum is surrounded by gardens and has a little moat around it. It’s seriously impressive, yet practically no one was there when we visited – the Taj Mahal definitely steals all of the limelight – but this sight really is amazing in its own right.
 
-Magaharh Bagh, or ‘Sunset Point’ as the locals call it, is a beautiful place to chill out for a few hours and just gaze across at the Taj. Kate and I played cards and chess and hung out here for an hour or two and it was a really relaxing way to pass the time.
+![](/img/img_8131.jpg)
 
-![null]()
+![](/img/img_8132.jpg)
+
+Magaharh Bagh, or ‘Sunset Point’ as the locals call it, is a beautiful place to chill out for a few hours and just gaze across at the Taj. 
+
+![null](/img/f1010016.jpg)
+
+![](/img/f1010015.jpg)
+
+Kate and I played cards and chess and hung out here for an hour or two and it was a really relaxing way to pass the time.
+
+![](/img/img_9070.jpg)
 
 I haven’t been before, but I’m dying to visit Fatehpur Sikri as a day-trip next time I’m in Agra because it has an amazing complex of temples and monuments. It's 39km from Agra and apparently takes ~1 hour on the train.
 
