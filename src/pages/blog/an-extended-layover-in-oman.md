@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: An Extended Layover in Oman
+featuredImage: /img/oman-feature-image.jpg
 date: 2018-11-19T02:50:25.748Z
 description: November 2018
 tags:
