@@ -30,7 +30,9 @@ The main place that I wanted to see in Oman was the Bimmah Sink Hole. I’d seen
 
 We also visited two mosques in Muscat: Sultan Qaboos Grand Mosque and  Muhammed Al Ameen Mosque. Unfortunately we arrived a little after 11am so they were closed for prayer, but we admired them from the outside and they were both stunning. 
 
-We then arrived back at the airport a little after midday for our flight to Kathmandu which was 3 hours and 15 minutes long. 
+We then arrived back at the airport a little after midday for our flight to Kathmandu which was 3 hours and 15 minutes long. The sunset as we flew over Pakistan was seriously incredible.
+
+![](/img/nepal-flight.jpg)
 
 If we had had a few more hours, I would have loved to have visited Wadi Ash Shab. It’s only an extra 20-minute drive from the Bimmah Sink Hole but it’s a 40-minute walk to reach the infinity pools. It looks stunning.
 
