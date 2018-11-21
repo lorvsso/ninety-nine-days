@@ -22,9 +22,9 @@ Also known as the white city and affectionately called ‘Venice of the East’ 
 
 **Jaipur**
 
-Also known as the pink city, [Jaipur](https://www.ninetyninedays.com.au/blog/jaipur-the-pink-city/) is hectic! It’s smoggy, it’s traffic-jam galore, and it’s also home to some of India’s most incredible architecture (Amber Fort, Hawa Mahal). It wasn’t love at first sight, but I’ve come to appreciate Jaipur more than I thought I ever would. 
+Also known as the pink city, [Jaipur](https://www.ninetyninedays.com.au/blog/jaipur-the-pink-city/) is hectic! It’s smoggy, it’s traffic-jam galore, and it’s also home to some of India’s most incredible architecture (Amber Fort, Hawa Mahal). It wasn’t love at first sight, but I’ve come to appreciate Jaipur more than I thought I ever would. ** **
 
-**Jaisalmer **
+**Jaisalmer**
 
 Also known as the golden city, Jaisalmer has a lot to offer between the nearby Thar Desert where you can camp a night out under the stars, and a fort that’s full of cafés and beautiful textiles shops.
 
