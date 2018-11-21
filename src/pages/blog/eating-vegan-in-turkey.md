@@ -13,7 +13,7 @@ Eating vegan in Turkey was a dream – easy, cheap and super tasty. We were able
 
 ## Our go-to meals
 
-**Turkish Delight **
+**Turkish Delight**
 
 I have been obsessed with Turkish delight since I was young. I assumed that Turkish Delight would contain gelatine, and had reconciled myself to the fact that I wouldn’t be able to eat it. One day in Fethiye, I thought that I may’s well check the ingredient list, just to be sure. I was ridiculously excited to discover that ‘regular’ Turkish Delight is in fact vegan (at least everywhere we saw it). Rather than using gelatine, they use corn starch. In Fethiye they sold fresh logs of rose and pomegranate Turkish Delight covered in pistachios, and we pretty much spent the next two weeks absolutely gorging ourselves.
 
