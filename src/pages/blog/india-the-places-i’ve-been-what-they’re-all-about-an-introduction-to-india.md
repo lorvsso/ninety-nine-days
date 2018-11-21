@@ -44,23 +44,31 @@ Also known as the pink city, [Jaipur](https://www.ninetyninedays.com.au/blog/jai
 
 Also known as the golden city, Jaisalmer has a lot to offer between the nearby Thar Desert where you can camp a night out under the stars, and a fort that’s full of cafés and beautiful textiles shops.
 
-![]()
+![](/img/jaisalmer.jpg)
 
 **Jodhpur**
 
 Also known as the blue city, Jodhpur’s impressive fort towers above the rest of the city. Jodhpur has really cool shopping, bustling markets, and lots of rooftop restaurants. 
 
+![](/img/jodhpur.jpg)
+
 **Kerala**
 
 Like Goa, Kerala is an entire state. It's packed with tea fields, lush jungle and water canals known as 'backwaters'.
+
+![](/img/kerala.jpg)
 
 **Manali**
 
 Nestled in the Himalayas with a river running through the centre, Manali is a lovely mountain town. There are lots of walks to do, shops stocked with Tibetan jewellery and cosy cafés. We had a white Christmas here in 2015 and it was the best.
 
+![](/img/manali.jpg)
+
 **Pushkar**
 
 A little town in Rajasthan, Pushkar is centred around a holy lake and shrouded by mountains. The vibe here felt much more touristy than most of the other places I've been in India, but the sunsets were some of the best I've seen and the shopping was good.
+
+![](/img/pushkar.jpg)
 
 **Rishikesh**
 
@@ -69,6 +77,8 @@ Rishikesh is a yogi’s dream. Yoga and meditation courses are widely offered an
 **Udaipur**
 
 Also known as the white city and affectionately called ‘Venice of the East’ because of its numerous lakes, [Udaipur](https://www.ninetyninedays.com.au/blog/udaipur-the-whte-city/) is the place that made me fall in love with India. This is the place I go back to every single time I visit India and the place I miss the most when I’m back home.
+
+![](/img/udaipur.jpg)
 
 **Varanasi**
 
