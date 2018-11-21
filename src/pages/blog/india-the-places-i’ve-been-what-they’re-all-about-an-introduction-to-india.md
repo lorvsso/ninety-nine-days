@@ -12,17 +12,17 @@ India is a huge country that’s more like several countries in one, so it can b
 
 # Where I’ve been & Their Vibe
 
-****[**Agra**](https://www.ninetyninedays.com.au/blog/twenty-four-hours-in-agra/)****
+**Agra**
 
-It's not the most charming place in India, but is totally worth a visit because it’s home to the [Taj Mahal](https://www.ninetyninedays.com.au/blog/the-taj-mahal/) which is deserves every bit of the hype it receives. In my opinion, a trip to India is incomplete without a short stop in Agra.
+It's not the most charming place in India, but is totally worth a visit because it’s home to the [Taj Mahal](https://www.ninetyninedays.com.au/blog/the-taj-mahal/) which is deserves every bit of the hype it receives. In my opinion, a trip to India is incomplete without a short stop in [Agra](https://www.ninetyninedays.com.au/blog/twenty-four-hours-in-agra/).
 
-****[**Udaipur**](https://www.ninetyninedays.com.au/blog/udaipur-the-whte-city/)****
+**Udaipur**
 
-Also known as the white city and affectionately called ‘Venice of the East’ because of its numerous lakes, Udaipur is the place that made me fall in love with India. This is the place I go back to every single time I visit India and the place I miss the most when I’m back home.
+Also known as the white city and affectionately called ‘Venice of the East’ because of its numerous lakes, [Udaipur](https://www.ninetyninedays.com.au/blog/udaipur-the-whte-city/) is the place that made me fall in love with India. This is the place I go back to every single time I visit India and the place I miss the most when I’m back home.
 
-****[**Jaipur**](https://www.ninetyninedays.com.au/blog/jaipur-the-pink-city/)****
+**Jaipur**
 
-Also known as the pink city, Jaipur is hectic! It’s smoggy, it’s traffic-jam galore, and it’s also home to some of India’s most incredible architecture (Amber Fort, Hawa Mahal). It wasn’t love at first sight, but I’ve come to appreciate Jaipur more than I thought I ever would. 
+Also known as the pink city, [Jaipur](https://www.ninetyninedays.com.au/blog/jaipur-the-pink-city/) is hectic! It’s smoggy, it’s traffic-jam galore, and it’s also home to some of India’s most incredible architecture (Amber Fort, Hawa Mahal). It wasn’t love at first sight, but I’ve come to appreciate Jaipur more than I thought I ever would. 
 
 **Jaisalmer **
 
