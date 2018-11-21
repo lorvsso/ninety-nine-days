@@ -16,35 +16,35 @@ Everyone was inside celebrating with their family which meant that we practicall
 
 I’m sure that we would have gotten a much better feel for the city if people were bustling around and going about their usual business and it probably would have made it seem much more charming. Having said that, the sights that we visited were architecturally amazing and we ate lots of really good food too.
 
-![](/img/img_8158.jpg)
+![null](/img/img_8158.jpg)
 
 ## What we did
 
 The first sight that we visited was King Abdullah I Mosque: a majestic blue domed mosque in the heart of Amman. This mosque was completed in 1989 and can house up to 7,000 people for prayer. Because my ankles were showing I had to borrow a full-length dress/robe from the staff at the mosque to be able to visit it. Entry was 2JD each (~$4AUD).
 
-![](/img/img_8159.jpg)
+![null](/img/img_8159.jpg)
 
 After lunch we headed up to Rainbow Street which is considered Amman’s funkiest area. There’s lots of street art, and cool cafés and night clubs. Unfortunately, most places were closed, but we did stop for coffee at a really cool arty café named Salam Kanaan Gallery. 
 
-![](/img/rainbow-street.jpg)
+![null](/img/rainbow-street.jpg)
 
 After we’d checked out Rainbow Street, we walked down to the Roman Amphitheatre. By this point it was the late afternoon and the city was really starting to come to life. Everyone emerged from their houses, and friends, school kids and couples were all hanging out at the here. This was included in our Jordan Pass.
 
-![](/img/img_8160.jpg)
+![null](/img/img_8160.jpg)
 
 The Citadel is located high up on a hill in central Amman and therefore has amazing views over the whole city. We went up right before sunset and watched the sky slowly light up pink above the sprawling city. We would have liked more time up there but our taxi driver kept getting lost so we arrived only 10 minutes before it closed. Again, this sight was included in our Jordan Pass, otherwise it would have been 2JD (~$4AUD). 
 
-![](/img/img_8156.jpg)
+![null](/img/img_8156.jpg)
 
-![](/img/img_8154.jpg)
+![null](/img/img_8154.jpg)
 
-![](/img/img_8157.jpg)
+![null](/img/img_8157.jpg)
 
 ## Where we ate
 
 We ate literally every single meal at [Hashems](https://www.facebook.com/Hashem.resturant/) while we were in Amman – the food was just too good to go anywhere else. This place is popular amongst both locals and tourists and rightly so; the food is authentic and delicious, the service is fast and it’s great value. Plus, it’s all vegan! When we first arrived in Amman, we hadn’t eaten for 24 hours (due to poor planning and there being literally no vegan options at Ankara airport) and we were starving. We headed straight to Hashems for a feast and it was so good, we went back another five times. There’s no menu, you just tell the waiter what you feel like and they’ll bring you enough food. We normally ate falafels, hummus, baba ganoush, fries, pickles, salad, pita and mint tea. Generally, the meal would come to around 6 or 8 JD (~$6AUD) which is great value for Jordan (Jordan was far more expensive than I anticipated).
 
-![](/img/hashems.jpg)
+![null](/img/hashems.jpg)
 
 There’s also a little shop directly across the road from Hashems that sells the juiciest dates – I popped over there after most meals to buy a couple of dates for dessert. 
 
@@ -56,11 +56,11 @@ We stayed at [Farah Hotel](http://reservation.bookhostels.com/farahhotel.com.jo/
 
 Amman is probably the one place that I’d recommend really covering up as it feels a lot more conservative than the rest of Jordan. Even though it was hot, I covered my shoulders and down to my ankles while I was in Amman and carried a scarf with me too. We did see some foreigners walking around in short shorts and singlet tops but they looked ridiculously out of place and were drawing in a lot of unnecessary attention, not to mention that they wouldn’t have been able to go inside any mosques.
 
-![](/img/img_8144.jpg)
+![null](/img/img_8144.jpg)
 
 ## How we got there
 
-We flew directly from Ankara, Turkey to Amman, Jordan with Pegasus Airlines. We booked this flight really late (only a week out) so it ended up costing $. The flight was only 2 hours and despite the unnervingly intense security checks leaving Ankara, everything went smoothly. It was actually a really cool flight – we flew over Cyprus and then across Tel Aviv before being completely surrounded by desert when we landed in Amman. 
+We flew directly from Ankara, Turkey to Amman, Jordan with Pegasus Airlines. We booked this flight really late (only a week out) so it ended up costing $219AUD each. The flight was only 2 hours and despite the unnervingly intense security checks leaving Ankara, everything went smoothly. It was actually a really cool flight – we flew over Cyprus and then across Tel Aviv before being completely surrounded by desert when we landed in Amman. 
 
 You need a visa to visit Jordan, but if you buy a Jordan Pass it ends up being much better value. From the airport we took the public bus into Amman which was ~$3AUD each and took an hour or so.
 
