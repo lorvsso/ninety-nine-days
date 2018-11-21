@@ -16,13 +16,19 @@ India is a huge country that’s more like several countries in one, so it can b
 
 It's not the most charming place in India, but is totally worth a visit because it’s home to the [Taj Mahal](https://www.ninetyninedays.com.au/blog/the-taj-mahal/) which is deserves every bit of the hype it receives. In my opinion, a trip to India is incomplete without a short stop in [Agra](https://www.ninetyninedays.com.au/blog/twenty-four-hours-in-agra/).
 
+![](/img/agra.jpg)
+
 **Chittorgarh**
 
 This city is home to a seriously [cool fort](https://www.ninetyninedays.com.au/blog/chittorgarh-fort/). By far my favourite fort in all of India, Chittorgarh is a gem hidden away in Rajasthan and overshadowed by its neighbouring cities. It’s well worth a day trip to see this stone fort, perched atop a mountain and surrounded by a deep green moat. 
 
+![](/img/chittorgarh.jpg)
+
 **Hampi**
 
 Super relaxed vibe here, Hampi is a place you could easily hang out in for a week or two if you felt like stopping. There's a big watering hole to swim in as well as lots of cool temple complexes. It’s a place to rent motorbikes, explore and slow down.
+
+![](/img/hampi.jpg)
 
 **Goa** 
 
@@ -30,11 +36,15 @@ It may seem obvious, but lots of people don't realise that Goa is actually an en
 
 **Jaipur**
 
-Also known as the pink city, [Jaipur](https://www.ninetyninedays.com.au/blog/jaipur-the-pink-city/) is hectic! It’s smoggy, it’s traffic-jam galore, and it’s also home to some of India’s most incredible architecture (Amber Fort, Hawa Mahal). It wasn’t love at first sight, but I’ve come to appreciate Jaipur more than I thought I ever would. \*\* \*\*
+Also known as the pink city, [Jaipur](https://www.ninetyninedays.com.au/blog/jaipur-the-pink-city/) is hectic! It’s smoggy, it’s traffic-jam galore, and it’s also home to some of India’s most incredible architecture (Amber Fort, Hawa Mahal). It wasn’t love at first sight, but I’ve come to appreciate Jaipur more than I thought I ever would.
+
+![](/img/film-1.jpg)
 
 **Jaisalmer**
 
 Also known as the golden city, Jaisalmer has a lot to offer between the nearby Thar Desert where you can camp a night out under the stars, and a fort that’s full of cafés and beautiful textiles shops.
+
+![]()
 
 **Jodhpur**
 
