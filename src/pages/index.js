@@ -2,6 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import { Link, graphql } from "gatsby";
 import Layout from "../components/Layout";
+import AuthorBio from "../components/AuthorBio";
 
 import "../styles/base.scss";
 
@@ -28,6 +29,9 @@ export default class IndexPage extends React.Component {
               </Link>
             ))}
           </div>
+        </section>
+        <section className="mt5">
+          <AuthorBio />
         </section>
       </Layout>
     );

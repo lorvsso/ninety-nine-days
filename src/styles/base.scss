@@ -18,10 +18,17 @@ img {
   object-fit: cover;
 }
 
-main {
+.content {
   a {
+    color: #333;
     text-decoration: none;
-    border-bottom: 1px solid;
+    border-bottom: 1px solid #333;
+    transition: all 0.1s ease-in-out 0s;
+
+    &:hover {
+      opacity: 0.7;
+      border-bottom: 1px solid rgba(51, 51, 51, 0.7);
+    }
   }
 }
 
@@ -108,13 +115,6 @@ main {
 
 .item-details p {
   color: #fff;
-}
-
-.content {
-  h2 {
-    font-weight: 400;
-    margin: 1.5em 0;
-  }
 }
 
 article {
