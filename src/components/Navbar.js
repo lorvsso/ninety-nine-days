@@ -3,7 +3,7 @@ import { Link } from "gatsby";
 
 const Navbar = () => (
   <nav className="helvetica fw3">
-    <Link className="link dark-gray tc db mb4 mt4 logo" to="/" title="Home">
+    <Link className="link dark-gray tc db mb3 mt4 logo" to="/" title="Home">
       <svg
         viewBox="0 0 464 72"
         fill="currentColor"
@@ -28,7 +28,6 @@ const Navbar = () => (
       </svg>
     </Link>
     <div className="tc mb4-ns mb4 f6 f5-ns">
-      {/* TODO: find the lightest gray color that passes accessibility contrast checkers (jxnblk or mrmrs has a site) */}
       <Link className="link dim black-60 mr3 dib mb0-ns mb2" to="tags/africa">
         Africa
       </Link>
