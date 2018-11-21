@@ -34,6 +34,8 @@ Super relaxed vibe here, Hampi is a place you could easily hang out in for a wee
 
 It may seem obvious, but lots of people don't realise that Goa is actually an entire state, not just one beach, and each spot has its own unique vibe. Goa has something for everyone - whether that be all-night psytrance parties, wholesome cafés and markets or just relaxing by the beach.
 
+![](/img/goa.jpg)
+
 **Jaipur**
 
 Also known as the pink city, [Jaipur](https://www.ninetyninedays.com.au/blog/jaipur-the-pink-city/) is hectic! It’s smoggy, it’s traffic-jam galore, and it’s also home to some of India’s most incredible architecture (Amber Fort, Hawa Mahal). It wasn’t love at first sight, but I’ve come to appreciate Jaipur more than I thought I ever would.
@@ -74,6 +76,8 @@ A little town in Rajasthan, Pushkar is centred around a holy lake and shrouded b
 
 Rishikesh is a yogi’s dream. Yoga and meditation courses are widely offered and there’s an abundance of vegan food. Rishikesh also has a lot to offer with its natural beauty: it’s surrounded by mountains, and the Ganga flows through Rishikesh. To top it off, it’s home to the ashram where the Beatles once lived – it’s abandoned now, and the perfect place to chill for a day.
 
+![](/img/rishikesh.jpg)
+
 **Udaipur**
 
 Also known as the white city and affectionately called ‘Venice of the East’ because of its numerous lakes, [Udaipur](https://www.ninetyninedays.com.au/blog/udaipur-the-whte-city/) is the place that made me fall in love with India. This is the place I go back to every single time I visit India and the place I miss the most when I’m back home.
@@ -83,3 +87,5 @@ Also known as the white city and affectionately called ‘Venice of the East’ 
 **Varanasi**
 
 What a place! The Ganges runs through Varanasi and burning ceremonies of the dead take place along its bank. It’s one of the most holy places in the world, and there is definitely a seriously strong vibe here. It’s dirtier than anywhere I’ve ever been, but it’s incredible to visit a place that is so culturally rich and still maintaining its religious traditions.
+
+![](/img/varanasi.jpg)
