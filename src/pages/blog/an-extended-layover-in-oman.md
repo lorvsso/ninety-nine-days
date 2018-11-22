@@ -28,6 +28,8 @@ We drove straight from the airport to our accommodation in Muscat. We stayed in 
 
 The main place that I wanted to see in Oman was the Bimmah Sink Hole. I’d seen pictures, and it looked really cool. Locals believe that the sink hole was created from a fallen star. We set off from the hotel just before 7am and were instantly mesmerised by the beautiful mountains surrounding Muscat that we drove through the entire drive there. It was so interesting to see mountains with a desert landscape rather than lush green or snow-covered mountains like the ones I’ve seen before. It was a one-and-a-half-hour drive to the sink hole, and the highways were quite literally the best I’ve ever seen.
 
+![]()
+
 We also visited two mosques in Muscat: Sultan Qaboos Grand Mosque and  Muhammed Al Ameen Mosque. Unfortunately we arrived a little after 11am so they were closed for prayer, but we admired them from the outside and they were both stunning. 
 
 We then arrived back at the airport a little after midday for our flight to Kathmandu which was 3 hours and 15 minutes long. The sunset as we flew over Pakistan was seriously incredible.
