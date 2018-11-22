@@ -2,6 +2,7 @@ import React from "react";
 import Helmet from "react-helmet";
 import { Link, graphql } from "gatsby";
 import Layout from "../components/Layout";
+import GridItem from "../components/GridItem";
 
 class TagRoute extends React.Component {
   render() {
@@ -38,28 +39,13 @@ class TagRoute extends React.Component {
         <section className="center mt3">
           <div class="grid">
             {posts.map(({ node: post }) => (
-              <div className="item bb-0" key={post.id} to={post.fields.slug}>
-                <div className="item-overlay" />
-                <img src={post.frontmatter.featuredImage} alt="" />
-                <div className="item-details">
-                  <h2 className="item-title f4 normal mb1">
-                    <Link
-                      className="link white"
-                      key={post.id}
-                      to={post.fields.slug}
-                    >
-                      {post.frontmatter.title}
-                    </Link>
-                  </h2>
-                  <Link
-                    className="link white f5 mb3 lh-solid"
-                    key={post.id}
-                    to={post.fields.slug}
-                  >
-                    {post.frontmatter.description}
-                  </Link>
-                </div>
-              </div>
+              <GridItem
+                key={post.id}
+                featuredImage={post.frontmatter.featuredImage}
+                link={post.fields.slug}
+                title={post.frontmatter.title}
+                description={post.frontmatter.description}
+              />
             ))}
           </div>
         </section>
