@@ -37,7 +37,7 @@ export const BlogPostTemplate = ({
               <PostContent content={content} />
             </div>
             {tags && tags.length ? (
-              <ul className="list flex justify-start items-center flex-wrap mt4 ma0 pl1 black-60">
+              <ul className="list flex justify-center items-center flex-wrap mt4 ma0 pl1 black-60">
                 <li className="mt0 lh-solid">
                   <Link
                     className="black-60 f5 tc helvetica fw3 bb-0 flex items-center"
