@@ -9,7 +9,7 @@ tags:
   - Turkey
   - Middle East
 ---
-I don’t often buy a lot when I travel, but I knew that when I went back to Turkey, I wanted to buy a rug or carpet. I’d seen photos online of an amazing carpet shop in Cappadocia, so insisted that we held out on our carpet shopping until we arrived in Gorëme, the main town in Cappadocia. On our first day there, we wandered the streets searching for it, and I was over the moon when we found it.
+I don’t often buy a lot when I travel, but I knew that when I went back to Turkey, I wanted to buy a rug or carpet. I’d seen photos online of an amazing carpet shop in Cappadocia, so insisted that we held out on our carpet shopping until we arrived in Gorëme, the main town in Cappadocia. On our first day there, we wandered the streets searching for the shop, and I was over the moon when we found it.
 
 ![null](/img/twirling.jpg)
 
@@ -44,5 +44,3 @@ They’ve well and truly monetised just how popular and photogenic their main ro
 ![null](/img/me-2.jpg)
 
 ![null](/img/me-3.jpg)
-
-![null](/img/me-4.jpg)
