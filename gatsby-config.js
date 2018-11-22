@@ -27,6 +27,12 @@ module.exports = {
         stylesPath: `${__dirname}/src/styles/base.scss`
       }
     },
+    {
+      resolve: `gatsby-source-instagram`,
+      options: {
+        username: `sahjackson`
+      }
+    },
     "gatsby-plugin-netlify-cache",
     "gatsby-plugin-netlify" // make sure to keep it last in the array
   ]

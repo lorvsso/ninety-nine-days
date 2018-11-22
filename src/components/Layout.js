@@ -18,6 +18,9 @@ const TemplateWrapper = ({ children }) => (
     </Helmet>
     <Navbar />
     <main>{children}</main>
+    <footer className="black-60 f7 mt4 mb4 helvetica fw3 tc">
+      © Sarah Jackson 2018. Designed & built by Jack Lo Russo
+    </footer>
   </div>
 );
 

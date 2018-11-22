@@ -1,26 +1,30 @@
 import React from "react";
 
 import BioPic from "../images/bio_pic.jpg";
+import InstaFeed from "./InstaFeed";
 
 const AuthorBio = () => {
   return (
-    <div className="center items-center w-100 measure-wide helvetica fw3 tc mt4 mb5">
-      <img
-        src={BioPic}
-        alt="Sarah smiling at the camera while hanging out of a train window in Sri Lanka"
-        className="w4 br-100"
-      />
-
-      <p className="b lh-heading f4 fw3">by Sarah Jackson</p>
-
-      <p>
+    <div className="measure-wide pl2 pr2 center items-center w-100 helvetica fw3 tc mt3 mb5">
+      <div className="flex flex-column items-center justify-center">
+        <img
+          src={BioPic}
+          alt="Sarah smiling at the camera while hanging out of a train window in Sri Lanka"
+          className="w4 br-100"
+        />
+        <p className="b lh-heading f3 fw3">by Sarah Jackson</p>
+      </div>
+      <div className="mt4">
+        <a href="https://instagram.com/sahjackson">
+          <InstaFeed />
+        </a>
         <a
-          className="link bb-0 dark-gray border"
+          className="link bb-0 dark-gray border f5 db mb3 mt2"
           href="https://instagram.com/sahjackson"
         >
-          Instagram
+          Most recent Instagram posts
         </a>
-      </p>
+      </div>
     </div>
   );
 };
