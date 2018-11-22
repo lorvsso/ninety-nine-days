@@ -30,9 +30,13 @@ The main place that I wanted to see in Oman was the Bimmah Sink Hole. I’d seen
 
 ![null](/img/sink-hole.jpg)
 
-![](/img/sink-hole-1.jpg)
+![null](/img/sink-hole-1.jpg)
 
 We also visited two mosques in Muscat: Sultan Qaboos Grand Mosque and  Muhammed Al Ameen Mosque. Unfortunately we arrived a little after 11am so they were closed for prayer, but we admired them from the outside and they were both stunning. 
+
+![](/img/mosque.jpg)
+
+![](/img/mosque-2.jpg)
 
 We then arrived back at the airport a little after midday for our flight to Kathmandu which was 3 hours and 15 minutes long. The sunset as we flew over Pakistan was seriously incredible.
 
