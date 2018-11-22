@@ -5,7 +5,7 @@ import InstaFeed from "./InstaFeed";
 
 const AuthorBio = () => {
   return (
-    <div className="measure-wide pl2 pr2 center items-center w-100 helvetica fw3 tc mt3 mb5">
+    <div className="measure-wide pl2 pr2 center items-center w-100 helvetica fw3 tc mb5">
       <div className="flex flex-column items-center justify-center">
         <img
           src={BioPic}

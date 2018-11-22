@@ -26,14 +26,16 @@ export const BlogPostTemplate = ({
         {helmet || ""}
         <img src={featuredImage} alt="" className="pl2 pr2" />
         <div>
-          <h1 className="tc normal f1-ns f2 mt5 tc lh-title">{title}</h1>
+          <h1 className="tc normal f1-ns f2 mt5 tc lh-title pl2 pr2">
+            {title}
+          </h1>
 
           <p className="tc mb5 f5 tc helvetica fw3 black-60">
             — {description} —
           </p>
 
           <div className="measure-wide lh-copy center f4-ns f5 pl2 pr2">
-            <div className="content">
+            <div className="content pl2 pr2 pl0-ns pr0-ns">
               <PostContent content={content} />
             </div>
             {tags && tags.length ? (
