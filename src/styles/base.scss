@@ -57,6 +57,7 @@ img {
     position: relative;
 
     &:hover,
+    &:focus,
     &:active {
       .item-overlay {
         opacity: 1;
@@ -91,6 +92,10 @@ img {
 
 .item-details {
   position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
   text-align: center;
   padding-left: 1em;
   padding-right: 1em;

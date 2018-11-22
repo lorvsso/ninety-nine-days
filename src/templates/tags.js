@@ -38,14 +38,28 @@ class TagRoute extends React.Component {
         <section className="center mt3">
           <div class="grid">
             {posts.map(({ node: post }) => (
-              <Link className="item bb-0" key={post.id} to={post.fields.slug}>
-                <div class="item-overlay" />
+              <div className="item bb-0" key={post.id} to={post.fields.slug}>
+                <div className="item-overlay" />
                 <img src={post.frontmatter.featuredImage} alt="" />
-                <div class="item-details fadeIn-bottom">
-                  <h3 class="item-title f4 normal">{post.frontmatter.title}</h3>
-                  <p class="item-text">{post.frontmatter.description}</p>
+                <div className="item-details">
+                  <h2 className="item-title f4 normal mb1">
+                    <Link
+                      className="link white"
+                      key={post.id}
+                      to={post.fields.slug}
+                    >
+                      {post.frontmatter.title}
+                    </Link>
+                  </h2>
+                  <Link
+                    className="link white f5 mb3 lh-solid"
+                    key={post.id}
+                    to={post.fields.slug}
+                  >
+                    {post.frontmatter.description}
+                  </Link>
                 </div>
-              </Link>
+              </div>
             ))}
           </div>
         </section>
