@@ -4,6 +4,7 @@ module.exports = {
   },
   plugins: [
     "gatsby-plugin-react-helmet",
+    "gatsby-plugin-favicon",
     "gatsby-plugin-sass",
     {
       resolve: "gatsby-source-filesystem",
@@ -38,7 +39,7 @@ module.exports = {
       options: {
         trackingId: "UA-77015609-4",
         // Puts tracking script in the head instead of the body
-        head: false,
+        head: true,
         // Setting this parameter is optional
         anonymize: true,
         // Setting this parameter is also optional
