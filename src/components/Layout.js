@@ -9,7 +9,7 @@ const TemplateWrapper = ({ children }) => (
       <html lang="en-AU" />
       <meta
         name="description"
-        content="The travel and lifestyle blog of Sarah Jackson. Full of backpacking, vegan and zero-waste tips."
+        content="The first trip I ever went on was ninety-nine days long. This blog is about all of the adventures I've had since then."
       />
       <link
         href="https://fonts.googleapis.com/css?family=EB+Garamond:400,400i,600"
