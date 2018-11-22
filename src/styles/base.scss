@@ -56,7 +56,8 @@ img {
   .item {
     position: relative;
 
-    &:hover {
+    &:hover,
+    &:active {
       .item-overlay {
         opacity: 1;
       }
