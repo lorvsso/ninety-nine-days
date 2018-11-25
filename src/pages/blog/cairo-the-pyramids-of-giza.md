@@ -14,11 +14,19 @@ We travelled to the Middle East because I was so excited by Jordan, but once I r
 
 Cairo is a huge sprawling city and seemed pretty rundown. All the buildings are brown, the smog is really noticeable, and yet on our drive out to Giza we spotted several pockets of lush green farmland. It really has a vibe though, and it was a really exciting place to be (lots of sensory overload!). Tourism in Egypt has suffered dramatically since the Egyptian Revolution (25 January Revolution) in 2011; we saw no other tourists when walking around Cairo, and there were probably only around 40 people at the pyramids, which is insane for an Ancient Wonder of the World. We experienced only kindness from everyone we met in Egypt, and although the touts at the pyramids were intense, they were pushy in a very light-hearted way.
 
+![](/img/cairo.jpg)
+
+![](/img/img_8239.jpg)
+
 ## Where we stayed
 
 We moved around when we were in Egypt; we spent a couple of nights in a hostel in central Cairo, and then treated ourselves to two nights of luxury.
 
 There are so many budget options in Cairo, but upon recommendation we stayed at [Meramees Hostel](http://meramees-hostel.cairo-hotels-eg.com/en/) in central Cairo, only 10 minutes’ walk from the Egyptian museum and Tahrir Square. This hostel has beautiful high ceilings, a cosy common room with friendly staff, and a cute little balcony looking out over Cairo. The biggest downside is that you have to climb six flights of stairs to get up there – not the end of the world, but could be a deal breaker if you’re traveling with a big suitcase or lots of luggage. We paid 300 EGP for a double room (~$12AUD each) .
+
+![](/img/meramees.jpg)
+
+![](/img/cat.jpg)
 
 We then spent 2 nights at the [Marriott Mena House in Giza](https://www.marriott.com/hotels/travel/caimn-marriott-mena-house-cairo/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2) as a treat. If you’re looking for something a little more bougie, I can’t recommend it enough. The grounds are incredible: well-manicured lawns, beautiful gardens, a fancy swimming pool and a gym & sauna. Not to mention that we literally had a private balcony that had an incredible view of the pyramids. (If you decide to stay there, request room 438 – it’s on the top floor and at the perfect angle to see the Great Pyramid). We scored a last minute deal on Booking.com and paid $175USD per night (~$120AUD per person). As an aside, the security here was really stringent: a sniffer dog inspected the taxi and our luggage when we arrived, and to enter into the reception and the hotel room building, our baggage had to be scanned and we had to go through a metal detector.
 
