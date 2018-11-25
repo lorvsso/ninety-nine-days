@@ -44,9 +44,21 @@ Entry to the pyramids is only 120EGP (\~$12AUD) and 60EGP (\~$6AUD) for a studen
 
 Once we were back in Cairo, we visited the Egyptian Museum. It’s a pretty amazing place and it’s incredible just how many ancient artefacts there are housed within the one building – mummies, the gold mask of Tutankhamun, hundreds of statues of Egyptian gods. If you’re an ancient history buff, you could easily spend an entire day inside, and even if you’re not, it’s still an interesting place to spend a couple of hours. The museum isn’t air-conditioned though, so if you visit in Summer, prepare to overheat – we really struggled to enjoy ourselves properly since we were practically melting. I would also suggest getting a guide as barely any of the artefacts have information labels. Entry was 60EGP (~$6AUD).
 
+![](/img/egyptian-museum.jpg)
+
 We spent a few hours one afternoon relaxing in Al Azhar park and it was the perfect respite. If you’re feeling overwhelmed by the hustle and bustle of Cairo, it’s a really lovely place to spend a few hours relaxing, whilst still being right in the centre of Cairo. The park is filled with families picnicking, children playing in water fountains and young couples. It really showcases Egypt as a family oriented, friendly country. Entry was 20EGP (~$1.50AUD). 
 
-We also just wandered around what’s known as ‘Islamic Cairo’ and checked out some spice markets, gold shops and a few mosques. 
+![](/img/al-azhar-1.jpg)
+
+![](/img/al-azhar-2.jpg)
+
+We also just wandered around what’s known as ‘Islamic Cairo’ and checked out some spice markets, gold shops and a few mosques.
+
+![](/img/img_8234.jpg)
+
+ 
+
+![](/img/img_8235.jpg)
 
 ## What we ate
 
