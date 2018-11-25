@@ -70,6 +70,10 @@ We also just wandered around what’s known as ‘Islamic Cairo’ and checked o
 
 ![](/img/img_8237.jpg)
 
+![](/img/img_8241.jpg)
+
+![](/img/img_8242.jpg)
+
 ## What we ate
 
 Egyptian food is gooood! Just like other areas in the Middle East, falafels, accompanied by pickles, hummus etc., are the go to option if you’re veg. While we were staying at Mena House, we did also eat some really good Indian as well as a tasty risotto.
