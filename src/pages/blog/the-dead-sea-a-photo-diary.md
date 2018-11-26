@@ -31,10 +31,6 @@ We couldn’t resist lathering ourselves in mud which is rich in calcium, magnes
 
 ![null](/img/the-dead-sea-9.png)
 
-![null](/img/the-dead-sea-10.png)
-
 ![null](/img/the-dead-sea-11.png)
-
-![null](/img/the-dead-sea-12.png)
 
 Seriously such a cool experience, it's definitely worth a visit.
