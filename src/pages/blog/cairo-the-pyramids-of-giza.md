@@ -80,6 +80,6 @@ In central Cairo, you can’t go past [Kazaz](https://www.google.lk/maps/place/K
 
 ## How we got to & from Egypt
 
-We travelled overland in and out of Egypt seeing as we were already in the Middle East. Into Egypt, we travelled from Aqaba, Jordan to Cairo which took a total of 17 hours. Out of Egypt, we travelled from Cairo to Jerusalem, Israel which took a ridiculous and exhausting 25 hours. If you want to know more about this option, I’ve written a dedicated blog post about the logistics of traveling overland through Jordan, Israel and Egypt.
+We travelled overland in and out of Egypt seeing as we were already in the Middle East. Into Egypt, we travelled from Aqaba, Jordan to Cairo which took a total of 17 hours. Out of Egypt, we travelled from Cairo to Jerusalem which took a ridiculous and exhausting 25 hours. If you want to know more about this option, I’ve written a dedicated blog post about the logistics of traveling overland through Jordan, Israel and Egypt.
 
 If you want to do a trip just to Egypt, I was surprised to find out that it’s relatively inexpensive to fly into Cairo from Europe: you should be able to get return flights from Athens, Rome or Paris for around $350 AUD (Aegean Airlines is your best bet).
