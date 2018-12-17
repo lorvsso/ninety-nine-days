@@ -20,7 +20,7 @@ Having said this, Jaipur has some really amazing architectural sights, and it’
 
 ## My favourite things to do in Jaipur
 
-Amber Fort is the most popular attraction in Jaipur and by far my favourite sight to visit. It’s located in a town called Amer, 11km from Jaipur. The fort is built high on a hill, overlooking Maota Lake and the road below. Amber Fort is huge, but by the middle of the day, it’s totally crowded with tourists. It’s open from 8am, and to beat the crowds and heat I’d definitely advise visiting at opening time. Tickets cost 550 rupees (\~$11AUD), but there is a discounted rate for students – 100 rupees (\~$2AUD) – although you’ll need to show your student card for proof. 
+Amber Fort is the most popular attraction in Jaipur and by far my favourite sight to visit. It’s located in a town called Amer, 11km from Jaipur. The fort is built high on a hill, overlooking Maota Lake and the road below. Amber Fort is huge, but by the middle of the day, it’s totally crowded with tourists. It’s open from 8am, and to beat the crowds and heat I’d definitely advise visiting at opening time. Tickets cost 550 rupees (\~$11AUD), but there is a discounted rate for students – 100 rupees (\~$2AUD) – although you’ll need to show your student card as proof. 
 
 ![null](/img/jaipur-2.jpg)
 
@@ -40,7 +40,7 @@ Amber Fort is the most popular attraction in Jaipur and by far my favourite sigh
 
 ![null](/img/jaipur-12.jpg)
 
-One last thing: don’t ride the elephants here! The elephants are chained up by the side of the road when they're not being ridden and the hard wooden seat on the elephants back is really uncomfortable.
+One last thing: don’t ride the elephants here! The elephants are chained up by the side of the road when they're not being ridden and the hard wooden seats on the elephants' backs are really uncomfortable.
 
 ![null](/img/jaipur-3.jpg)
 
