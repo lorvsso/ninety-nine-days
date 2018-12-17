@@ -27,7 +27,7 @@ Essentially a Turkish twist on a pizza, pide is normally served with minced meat
 
 **Veggie Clay Pot**
 
-We only ordered a couple, but clay pots are so fun because they bring the dish out and then crack open the clay pot right in front of you. The vegetarian ones are naturally dairy and egg free and are full of roast veggies which is served on a bed of rice.
+We only ordered a couple, but clay pots are so fun because they bring the dish out and then crack open the clay pot right in front of you. The vegetarian ones are naturally dairy and egg free and are full of roast veggies which is then served on a bed of rice.
 
 ## Our favourite meals
 
