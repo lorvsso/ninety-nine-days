@@ -10,7 +10,7 @@ tags:
   - India
   - Asia
 ---
-Until the most recent time that I visited Jaipur, I really didn’t like it; I described Jaipur as being as more chaotic than most other Indian cities, yet having none of the charm. Despite the fact that I didn’t like Jaipur, I kept on visiting because I often fly into India via Jaipur – I’ve now visited three or four times.
+Until the most recent time that I visited Jaipur, I really didn’t like it; I described Jaipur as being more chaotic than most other Indian cities, yet having none of the charm. Despite the fact that I didn’t like Jaipur, I kept on visiting because I often fly into India via Jaipur – I’ve now visited three or four times.
 
 Jaipur is the capital city of the state of Rajasthan, and is the tenth most populated city in all of India. With a population of 3.1 million, it’s not quaint or charming like Udaipur or Pushkar. Instead, the air pollution is noticeable and it can take an outrageously long time to travel even small distances due to the ever-present traffic jams.
 
@@ -82,4 +82,4 @@ In terms of whether or not I would recommend visiting Jaipur, in my opinion it r
 
 ![null](/img/jaipur-16.jpg)
 
-![](/img/jaipur-15.jpg)
+![null](/img/jaipur-15.jpg)
