@@ -76,7 +76,7 @@ We also just wandered around what’s known as ‘Islamic Cairo’ and checked o
 
 Egyptian food is gooood! Just like other areas in the Middle East, falafels, accompanied by pickles, hummus etc., are the go to option if you’re veg. While we were staying at Mena House, we did also eat some really good Indian as well as a tasty risotto.
 
-In central Cairo, you can’t go past [Kazaz](https://www.google.lk/maps/place/Kazaz/@30.0466819,31.2382286,17z/data=!4m12!1m6!3m5!1s0x145840c7451d52a5:0x8d68d77b024c2762!2sMeramees+Hostel!8m2!3d30.0466819!4d31.2404173!3m4!1s0x0:0xc6cd3e166c56f895!8m2!3d30.0471854!4d31.2392318)! It’s a fast food restaurant but serves authentic Egyptian food and is seriously popular with the locals. Falafel pitas were 2.25 EGP which is literally less than 20c! This meant that we could both eat a meal for less than $1 which is pretty crazy. An added bonus was that it was only 100m down the road from Meramees Hostel, and for a small fee we even got it delivered one night.
+In central Cairo, you can’t go past [Kazaz](https://www.google.lk/maps/place/Kazaz/@30.0466819,31.2382286,17z/data=!4m12!1m6!3m5!1s0x145840c7451d52a5:0x8d68d77b024c2762!2sMeramees+Hostel!8m2!3d30.0466819!4d31.2404173!3m4!1s0x0:0xc6cd3e166c56f895!8m2!3d30.0471854!4d31.2392318)! It’s a fast food restaurant but serves authentic Egyptian food and is seriously popular with the locals. Falafel pitas were 2.25 EGP which is literally less than 20c! This meant that we could both eat a meal for less than $1AUD which is pretty crazy. An added bonus was that it was only 100m down the road from Meramees Hostel, and for a small fee we even got it delivered one night.
 
 ## How we got to & from Egypt
 
