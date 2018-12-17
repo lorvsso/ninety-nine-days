@@ -43,4 +43,4 @@ We ate at [one little pide shop](https://www.google.lk/maps/place/Nefis+Pide+Sal
 
 ## How much we spent
 
-Overall, food was inexpensive and we were able to eat well for very little money. A lot of the places we stayed at had breakfast included, and we spent \~$10AUD per person on lunch and dinner. On average, pide and gozleme were around 15-20TRY (\~$3-4AUD) and Turkish delight was 15TRY (~$3AUD) for a big log.
+Overall, food was inexpensive and we were able to eat well for very little money. A lot of the places we stayed at had breakfast included, and we spent \~$10AUD per person on lunch and dinner combined. On average, pide and gozleme were around 15-20TRY (\~$3-4AUD) and Turkish delight was 15TRY (~$3AUD) for a big log.
