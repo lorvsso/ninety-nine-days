@@ -33,7 +33,7 @@ We only ordered a couple, but clay pots are so fun because they bring the dish o
 
 We ate well across the entire country, but these are some of the restaurants or cafés that deserve a special mention.
 
-[Sultan Cave Suites](http://www.sultancavesuites.com/en) served up an incredible breakfast spread. A buffet breakfast was included in the price of the room and it was so, so good. We ate piles of hummus, roast potatoes, salad, olives and eggplant, and that was only round one. For round two, we loaded up a plate full of sweets – dried figs and mulberries, fruit, and Turkish Delight. Any buffet that has Turkish Delight on offer gets a 10 from me.
+[Sultan Cave Suites](http://www.sultancavesuites.com/en) served up an incredible breakfast spread. Buffet breakfast was included in the price of the room and it was so, so good. We ate piles of hummus, roast potatoes, salad, olives and eggplant, and that was only round one. For round two, we loaded up a plate full of sweets – dried figs and mulberries, fruit, and Turkish Delight. Any buffet that has Turkish Delight on offer gets a 10 from me.
 
 The meals that we ate at [Butterfly Valley](https://www.ninetyninedays.com.au/blog/butterfly-valley/) were amazing. For $18 AUD, a campsite (with showers) and a buffet dinner & breakfast were provided. The dinner buffet was 90% vegan (and all vegetarian) and was some of the freshest and healthiest food we ate on our whole trip. Countless salads, pasta bake, black beans, rice, potatoes, olives, hummus, baba ganoush and tapenade was all on offer. Breakfast was slightly less impressive, but there was still plenty to eat – we ate tomatoes, olives, cucumber and bread rolls.
 
