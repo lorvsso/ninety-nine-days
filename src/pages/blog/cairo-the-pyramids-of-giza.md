@@ -12,11 +12,11 @@ tags:
 ---
 We travelled to the Middle East because I was so excited by Jordan, but once I realised that Cairo was less than 1000km from Amman, I couldn’t let go of the idea of exploring the pyramids. Given that this was an add on to our planned trip to Jordan, we didn’t have nearly as long as I would have otherwise wanted to spend in Egypt. We settled for 4 days in Cairo and Giza, which ended up being a really lovely amount of time there. It definitely left us wanting to see more of Egypt, and although I was a little intimidated by Egypt initially, I felt really comfortable traveling there. Top of my list is to go diving or snorkelling in Dahab, and to explore the ancient wonders in Luxor, Abu Simbel and Aswan.
 
-Cairo is a huge sprawling city and seemed pretty rundown. All the buildings are brown, the smog is really noticeable, and yet on our drive out to Giza we spotted several pockets of lush green farmland. It really has a vibe though, and it was a really exciting place to be (lots of sensory overload!). Tourism in Egypt has suffered dramatically since the Egyptian Revolution (25 January Revolution) in 2011; we saw no other tourists when walking around Cairo, and there were probably only around 40 people at the pyramids, which is insane for an Ancient Wonder of the World. We experienced only kindness from everyone we met in Egypt, and although the touts at the pyramids were intense, they were pushy in a very light-hearted way.
+Cairo is a huge sprawling city and seemed pretty rundown. All the buildings are brown, the smog is really noticeable, and yet on our drive out to Giza we spotted several pockets of lush green farmland. It really has a vibe though, and it was an exciting place to be (lots of sensory overload!). Tourism in Egypt has suffered dramatically since the Egyptian Revolution (25 January Revolution) in 2011; we saw no other tourists when walking around Cairo, and there were probably only around 40 people at the pyramids, which is insane for an Ancient Wonder of the World. We experienced only kindness from everyone we met in Egypt, and although the touts at the pyramids were intense, they were pushy in a very light-hearted way.
 
-![](/img/cairo.jpg)
+![null](/img/cairo.jpg)
 
-![](/img/img_8239.jpg)
+![null](/img/img_8239.jpg)
 
 ## Where we stayed
 
@@ -24,9 +24,9 @@ We moved around when we were in Egypt; we spent a couple of nights in a hostel i
 
 There are so many budget options in Cairo, but upon recommendation we stayed at [Meramees Hostel](http://meramees-hostel.cairo-hotels-eg.com/en/) in central Cairo, only 10 minutes’ walk from the Egyptian museum and Tahrir Square. This hostel has beautiful high ceilings, a cosy common room with friendly staff, and a cute little balcony looking out over Cairo. The biggest downside is that you have to climb six flights of stairs to get up there – not the end of the world, but could be a deal breaker if you’re traveling with a big suitcase or lots of luggage. We paid 300 EGP for a double room (~$12AUD each) .
 
-![](/img/meramees.jpg)
+![null](/img/meramees.jpg)
 
-![](/img/cat.jpg)
+![null](/img/cat.jpg)
 
 We then spent 2 nights at the [Marriott Mena House in Giza](https://www.marriott.com/hotels/travel/caimn-marriott-mena-house-cairo/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2) as a treat. If you’re looking for something a little more bougie, I can’t recommend it enough. The grounds are incredible: well-manicured lawns, beautiful gardens, a fancy swimming pool and a gym & sauna. Not to mention that we literally had a private balcony that had an incredible view of the pyramids. (If you decide to stay there, request room 438 – it’s on the top floor and at the perfect angle to see the Great Pyramid). We scored a last minute deal on Booking.com and paid $175USD per night (~$120AUD per person). As an aside, the security here was really stringent: a sniffer dog inspected the taxi and our luggage when we arrived, and to enter into the reception and the hotel room building, our baggage had to be scanned and we had to go through a metal detector.
 
@@ -44,35 +44,33 @@ Entry to the pyramids is only 120EGP (\~$12AUD) and 60EGP (\~$6AUD) for a studen
 
 Once we were back in Cairo, we visited the Egyptian Museum. It’s a pretty amazing place and it’s incredible just how many ancient artefacts there are housed within the one building – mummies, the gold mask of Tutankhamun, hundreds of statues of Egyptian gods. If you’re an ancient history buff, you could easily spend an entire day inside, and even if you’re not, it’s still an interesting place to spend a couple of hours. The museum isn’t air-conditioned though, so if you visit in Summer, prepare to overheat – we really struggled to enjoy ourselves properly since we were practically melting. I would also suggest getting a guide as barely any of the artefacts have information labels. Entry was 60EGP (~$6AUD).
 
-![](/img/egyptian-museum.jpg)
+![null](/img/egyptian-museum.jpg)
 
 We spent a few hours one afternoon relaxing in Al Azhar park and it was the perfect respite. If you’re feeling overwhelmed by the hustle and bustle of Cairo, it’s a really lovely place to spend a few hours relaxing, whilst still being right in the centre of Cairo. The park is filled with families picnicking, children playing in water fountains and young couples. It really showcases Egypt as a family oriented, friendly country. Entry was 20EGP (~$1.50AUD). 
 
-![](/img/al-azhar-1.jpg)
+![null](/img/al-azhar-1.jpg)
 
-![](/img/al-azhar-2.jpg)
+![null](/img/al-azhar-2.jpg)
 
 We also just wandered around what’s known as ‘Islamic Cairo’ and checked out some spice markets, gold shops and a few mosques.
 
-![](/img/img_8234.jpg)
+![null](/img/img_8234.jpg)
 
- 
+![null](/img/img_8235.jpg)
 
-![](/img/img_8235.jpg)
+![null](/img/img_8288.jpg)
 
-![](/img/img_8288.jpg)
+![null](/img/img_8238.jpg)
 
-![](/img/img_8238.jpg)
+![null](/img/img_8286.jpg)
 
-![](/img/img_8286.jpg)
+![null](/img/img_8236.jpg)
 
-![](/img/img_8236.jpg)
+![null](/img/img_8237.jpg)
 
-![](/img/img_8237.jpg)
+![null](/img/img_8241.jpg)
 
-![](/img/img_8241.jpg)
-
-![](/img/img_8242.jpg)
+![null](/img/img_8242.jpg)
 
 ## What we ate
 
