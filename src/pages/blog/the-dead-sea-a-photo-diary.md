@@ -33,4 +33,4 @@ We couldn’t resist lathering ourselves in mud which is rich in calcium, magnes
 
 ![null](/img/the-dead-sea-11.png)
 
-Seriously such a cool experience, it's definitely worth a visit.
+Seriously such a cool experience, it's definitely worth a spot on your bucket list.
