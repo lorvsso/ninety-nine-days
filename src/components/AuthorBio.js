@@ -22,7 +22,7 @@ const AuthorBio = () => {
           className="link bb-0 dark-gray border f5 db mb3 mt2"
           href="https://instagram.com/sahjackson"
         >
-          Most recent Instagram posts
+          Instagram: @sahjackson
         </a>
       </div>
     </div>
