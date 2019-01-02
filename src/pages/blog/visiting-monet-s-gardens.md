@@ -17,14 +17,6 @@ We visited Monet’s Gardens in late June, and although it was very warm, we cou
 
 ![null](/img/mg8.jpg)
 
-## 
-
-## How we got there
-
-Giverny itself doesn’t have a train station, so we caught a train to Vernon (from Paris St Lazare). We’d actually been super organised and booked our train tickets roughly a month in advance for 18 euros each return, but when we arrived at the train station, our train had been cancelled and we had to pay an extra 10 euros each to change our tickets to be valid for the next train. This also meant that we ended up arriving in Vernon roughly 3 hours later than we should have, feeling very frustrated. The express train is meant to take only 47 minutes but we ended up having to change trains and it took closer to 2 hours.
-
-From Vernon we’d planned on taking a shuttle bus to Giverny (10 euros return), but when we arrived there was also a little tourist choo-choo train that was only 8 euros return so we figured we’d may’s well go with this cheaper and cuter (yet terribly cliché) tourist option. Otherwise it’s an hour walk into Giverny, although considering how hot it was, I’m glad we paid for the transfer, plus it meant that we had more time to spend back in Paris.  
-
 ## What we did there
 
 Monet’s house itself was really interesting to walk through. The exterior of the house is pretty unique; pale pink with tens of green-shuttered windows. The inside has been mostly preserved as it was when Monet lived there so it was interesting to see the furniture and artwork in the different rooms.
@@ -58,3 +50,9 @@ We didn’t spend a lot of time exploring Vernon but it looked really cute and i
 ## Tickets
 
 We bought our tickets for Monet's Gardens in advance and I’m so glad we did because there was a huge line, whereas people with pre-bought tickets went through the group entrance which had absolutely no queue. You can buy your tickets [here](http://giverny.org/gardens/fcm/ticket/?) and then just make sure you save the PDF to your device. Entrance is 6.50 euros for students and 9.50 euros for adults (although they didn’t actually ask for my student card as proof).
+
+## How we got there
+
+Giverny itself doesn’t have a train station, so we caught a train to Vernon (from Paris St Lazare). We’d actually been super organised and booked our train tickets roughly a month in advance for 18 euros each return, but when we arrived at the train station, our train had been cancelled and we had to pay an extra 10 euros each to change our tickets to be valid for the next train. This also meant that we ended up arriving in Vernon roughly 3 hours later than we should have, feeling very frustrated. The express train is meant to take only 47 minutes but we ended up having to change trains and it took closer to 2 hours.
+
+From Vernon we’d planned on taking a shuttle bus to Giverny (10 euros return), but when we arrived there was also a little tourist choo-choo train that was only 8 euros return so we figured we’d may’s well go with this cheaper and cuter (yet terribly cliché) tourist option. Otherwise it’s an hour walk into Giverny, although considering how hot it was, I’m glad we paid for the transfer, plus it meant that we had more time to spend back in Paris.
