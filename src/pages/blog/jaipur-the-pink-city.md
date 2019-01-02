@@ -50,6 +50,8 @@ One last thing: don’t ride the elephants here! The elephants are chained up by
 
 Nearby Amber Fort is Amer Stepwell and it is so cool! The first two times that I visited Jaipur, I totally missed it – it’s not easy to find, and if someone hasn’t told you about it, it’s unlikely that you’ll stumble upon it. I read about this stepwell on [Lillian Scott’s blog](https://www.lillianscott.org/india-nepal/india-the-ultimate-guide/jaipur/), and I was stoked to be able to visit on my next trip to Jaipur – so much so that Kate and I visited twice! In short, the easiest thing to do is probably to get a tuk tuk to Amber Fort and also let your driver know that you want to spend some time in Amer town. They’ll normally drive you to the Fort and then wait for you to finish looking around. 
 
+![](/img/jaipur-stepwell.jpg)
+
 ![null](/img/jaipur-23.jpg)
 
 We had planned to just walk through Amer and try and find the stepwells, but were lucky enough that our tuk tuk driver knew where the stepwells were so drove us there and waited for us. Based off the photos I’d seen of the stepwells, I was really excited to be able to go down all the steps and take some really cool photos. Unfortunately though, there were some guys informally patrolling the area who said that we weren’t allowed down more than two or three steps.
