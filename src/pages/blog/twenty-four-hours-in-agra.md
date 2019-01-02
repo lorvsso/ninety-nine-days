@@ -19,13 +19,13 @@ There’s not a lot do in Agra after dark, so the evening you arrive into Agra I
 
 ![null](/img/img_8130.jpg)
 
-I’ve written in detail about [the best way to visit the Taj Mahal](https://www.ninetyninedays.com.au/blog/the-taj-mahal/), but in short, I’d recommend arriving at the Eastern Gate by 5:45am and planning to stay until around 9am. After this, sit down for breakfast, preferably somewhere that has a view of the Taj, and then you can start exploring Agra’s sights. 
+I’ve written in detail about [the best way to visit the Taj Mahal](https://www.ninetyninedays.com.au/blog/the-taj-mahal/), but in short, I’d recommend arriving at the Eastern Gate by 6am and planning to stay until around 9am. After this, sit down for breakfast, preferably somewhere that has a view of the Taj, and then you can start exploring Agra’s sights. 
 
 ![null](/img/img_8136.jpg)
 
 ![null](/img/img_8134.jpg)
 
-It’s probably best to map out the sites that you want to visit, and then find a tuk tuk driver to take you to all the places you want to go and wait for you at each. Last time I was there, my sister Kate and I went out for 4 or 5 hours, and we paid 500 rupees (~$5AUD each).
+It’s probably best to map out the sites that you want to visit, and then find a tuk tuk driver to take you to all the places you want to go and wait for you at each. When I was there in 2017, my sister Kate and I went out for 4 or 5 hours, and we paid 500 rupees (~$5AUD each).
 
 ## My Favourite Sights in Agra
 
@@ -49,7 +49,15 @@ Kate and I played cards and chess and hung out here for an hour or two and it wa
 
 ![null](/img/img_9070.jpg)
 
-I haven’t been before, but I’m dying to visit Fatehpur Sikri as a day-trip next time I’m in Agra because it has an amazing complex of temples and monuments. It's 39km from Agra and apparently takes ~1 hour on the train.
+When I visited in 2018, I finally had time to visit Fatehpur Sikri which consists of an amazing complex of temples and monuments. Fatehpur Sikri is 39km from Agra and is a \~1 hour drive from Agra. Entry is 450Rs (\~$9AUD). We ended up getting a driver to and from Fatehpur Siki to save time and it cost 1200Rs ($8AUD each).
+
+![](/img/fs1.jpg)
+
+![](/img/fs2.jpg)
+
+![](/img/fs3.jpg)
+
+![](/img/fs4.jpg)
 
 The shopping in Agra is average and overpriced, so definitely hold off until you get to other places. Jaisalmer, Jodhpur, [Udaipur](https://www.ninetyninedays.com.au/blog/udaipur-the-whte-city/) and Pushkar all have far better shopping than Agra.
 
