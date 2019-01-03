@@ -5,7 +5,7 @@ class GridItem extends React.Component {
   render() {
     return (
       <div className="item bb-0" key={this.props.key}>
-        <div className="item-overlay" />
+        <div className="item-overlay" />{" "}
         <img src={this.props.featuredImage} alt="" />
         <div className="item-details">
           <h2 className="item-title f4 normal mb1">

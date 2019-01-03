@@ -9,7 +9,7 @@ const AuthorBio = () => {
       <div className="flex flex-column items-center justify-center">
         <img
           src={BioPic}
-          alt="Sarah smiling at the camera while hanging out of a train window in Sri Lanka"
+          alt="Sarah in a train in Sri Lanka"
           className="w4 br-100"
         />
         <p className="b lh-heading f3 fw3">by Sarah Jackson</p>

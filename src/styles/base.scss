@@ -56,6 +56,18 @@ img {
   .item {
     position: relative;
 
+    @media (max-width: 30em) {
+      .item-overlay {
+        opacity: 1;
+      }
+
+      .item-details {
+        top: 50%;
+        left: 50%;
+        opacity: 1;
+      }
+    }
+
     &:hover,
     &:focus,
     &:active {
@@ -110,9 +122,12 @@ img {
 .item-title {
   color: #fff;
   font-weight: 500;
-  letter-spacing: 0.15em;
   margin-bottom: 0.5em;
-  text-transform: uppercase;
+
+  @media (min-width: 30em) {
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+  }
 }
 
 .item-details p {
