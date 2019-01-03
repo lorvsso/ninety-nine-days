@@ -18,6 +18,11 @@ img {
   object-fit: cover;
 }
 
+// tachyons override
+.measure-wide {
+  max-width: 40em;
+}
+
 .content {
   a {
     color: #333;
