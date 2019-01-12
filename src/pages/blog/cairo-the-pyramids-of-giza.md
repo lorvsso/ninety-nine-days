@@ -36,25 +36,23 @@ You can’t go to Egypt and not see the pyramids. I’d recommend at least 3 hou
 
 On our first day we really just got our bearings by walking around the pyramids and checking out the Sphinx. It’s within a kilometre of the Great Pyramid so it’s all easily walkable. The sphinx was really cool and it was pretty incredible to see something so iconic in person.
 
-![](/img/me-and-the-sphinx.jpg)
+![null](/img/me-and-the-sphinx.jpg)
 
-![](/img/sphinx-front-on.jpg)
+![null](/img/sphinx-front-on.jpg)
 
-![](/img/all-white-outfit.jpg)
-
-![](/img/sphinx-side-on.jpg)
+![null](/img/sphinx-side-on.jpg)
 
 On our second day, we decided to go inside the Great Pyramid. It was one of the most claustrophobic environments I’ve ever been in; think 50 degree temperatures, extremely narrow passageways and dim lighting. We climbed up into the pyramid and when we finally reached the top, there was a small concrete room with nothing inside – it was kind of anticlimactic. Everything that was once housed within this pyramid was either stolen or is now housed in the Egyptian Museum. 
 
 We also walked out to an amazing viewpoint where you can see all nine of the Pyramids of Giza. Most people ride camels out to this viewpoint but we weren’t keen to do so so decided just to walk. Everyone must have thought we were crazy, opting to walk for an hour in 37-degree heat to get there, but there was actually a little breeze and it was quite a pleasant walk. The camel-owners are doing it tough since there are barely any tourists and the price for a camel ride is pretty low (150EGP for 2 hours which is ~$7AUD per hour). We met a really nice camel owner who was desperate to make a sale so that he could buy enough food for his camel so we ended up just paying him the price of a camel ride to walk with us out to the viewpoint – this ended up being cool because he was super into politics and we learnt so much about Egypt pre and post the 2011 revolution.
 
-![](/img/jack-walking-in-front-of-the-pyramids.jpg)
+![null](/img/jack-walking-in-front-of-the-pyramids.jpg)
 
-![](/img/me-in-front-of-the-pyramids.jpg)
+![null](/img/me-in-front-of-the-pyramids.jpg)
 
-![](/img/me-in-front-of-the-pyramids-2.jpg)
+![null](/img/me-in-front-of-the-pyramids-2.jpg)
 
-![](/img/jack-and-i-in-front-of-the-pyramids.jpg)
+![null](/img/jack-and-i-in-front-of-the-pyramids.jpg)
 
 Entry to the pyramids is only 120EGP (\~$12AUD) and 60EGP (\~$6AUD) for a student, however it’s 360EGP (~$36AUD) to enter into the Great Pyramid (I probably would have paid that much to not go through the experience). We got an Uber from central Cairo to Giza and it only cost $8.50AUD. 
 
