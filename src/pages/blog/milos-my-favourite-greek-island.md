@@ -35,6 +35,10 @@ Papafragkas is a pretty cool ocean trench. At the very least, you want to stop h
 
 We didn’t end up swimming at Papafragkas and instead rode around the cliffs a little bit and found a beach that was more open and sandy. We swam for hours – we literally put on our goggles that we packed from home and went for an ocean swim across the bay.
 
+![](/img/papafragkas-cove.jpg)
+
+![](/img/tsigrado-1.jpg)
+
 **Tsigrado**
 
 Tsigrado is a small cove located on the South coast of Milos and is one of the coolest beaches I’ve visited. Access is difficult; you have to climb down two wooden ladders that are somewhat precariously mounted on the cliff side but it’s totally worth it once you reach the bottom. Tsigrado is far less crowded than a lot of the other beaches and we spent an entire day there (mostly because I fell asleep and woke up four hours later ooops). 
@@ -51,11 +55,21 @@ It’s only accessible by boat which means that you have to do a tour to get the
 
 Swimming in Kleftiko ended up being one of the highlights of the entire trip. Once we sailed around to Kleftiko, the boat stopped for two hours for us to go swimming. The water was ridiculously clear and we had so much fun swimming in and out of the caves and sunbaking on the rocks. 
 
+We also rode up to Plaka and had a wander through the streets.
+
+![](/img/plaka-2.jpg)
+
+![](/img/plaka-3.jpg)
+
+![](/img/plaka.jpg)
+
+![](/img/plaka-4.jpg)
+
 ## Where we stayed
 
 Based on my sister’s recommendation we stayed in Adamantas, the port town of Milos. I’d recommend staying in this area as it’s central to the various beaches you’ll want to explore, has lots of shops and restaurants, but still doesn’t feel overly crowded. In reality though, Milos is quite a small island so as long as you hire a mope/quad, you'll be totally fine if you stay in Plaka, Polonia, or any other town. If you're going to rely on getting around by bus though, definitely stay in Admantas as this is where all the buses leave from.
 
-We decided to splurge a little bit in Milos and book a relatively nice guesthouse. Prices vary wildly depending on which month you visit, but we stayed at [Soulis Studios](https://www.booking.com/hotel/gr/soulis-adamas.en-gb.html?aid=356980;label=gog235jc-1DCAsoXEINc291bGlzLWFkYW1hc0gzWANoD4gBAZgBCbgBB8gBDNgBA-gBAYgCAagCAw;sid=a3a8062454383b5c3c6d9609e89a432c;dist=0&keep_landing=1&sb_price_type=total&type=total&) and paid 226 euros for 3 nights (~$55AUD per person per night). We were really happy with where we stayed - it had a beautiful balcony looking over the ocean and was in a good location.
+We decided to splurge a little bit in Milos and book a relatively nice guesthouse. Prices vary wildly depending on which month you visit, but we stayed at [Soulis Studios](https://www.booking.com/hotel/gr/soulis-adamas.en-gb.html?aid=356980;label=gog235jc-1DCAsoXEINc291bGlzLWFkYW1hc0gzWANoD4gBAZgBCbgBB8gBDNgBA-gBAYgCAagCAw;sid=a3a8062454383b5c3c6d9609e89a432c;dist=0&keep_landing=1&sb_price_type=total&type=total&) and paid 226 euros for 3 nights (~$55AUD per person per night). We were really happy with where we stayed, plus, it had a beautiful balcony looking over the ocean. 
 
 ![](/img/accomm.jpg)
 
@@ -66,6 +80,12 @@ We decided to splurge a little bit in Milos and book a relatively nice guesthous
 ![](/img/accomm-5.jpg)
 
 ![](/img/accomm-2.jpg)
+
+It was also in a good location in a cute little neighbourhood.
+
+![](/img/area-around-accomm.jpg)
+
+![](/img/area-around-accomm-2.jpg)
 
 ## Where we ate
 
@@ -82,8 +102,6 @@ Overall, it was easy to eat (relatively) cheap in Milos and we had no trouble fi
 ## How we got around
 
 The easiest and most cost-effective way to get around Milos is hiring a moped. The roads are quiet and riding from beach to beach was so much fun!!! Buses don’t run to many of the beaches that are off the beaten track and considering that these are some of the best beaches on the island, you don’t want to miss them! If you don’t hire a moped, the other option is taxis but this would get crazy expensive.
-
-![]()
 
 We decided that it wasn’t worth hiring a moped on our first day so we just got the public bus from Admantas Port to Sarkiniko and back which was only a 10-minute drive. The buses run every two hours and cost \~2 euros (\~$3AUD).
 
