@@ -43,6 +43,8 @@ We didn’t end up swimming at Papafragkas and instead rode around the cliffs a 
 
 Tsigrado is a small cove located on the South coast of Milos and is one of the coolest beaches I’ve visited. Access is difficult; you have to climb down two wooden ladders that are somewhat precariously mounted on the cliff side but it’s totally worth it once you reach the bottom. Tsigrado is far less crowded than a lot of the other beaches and we spent an entire day there (mostly because I fell asleep and woke up four hours later ooops). 
 
+![](/img/tsigrado-ladder.jpg)
+
 ![](/img/papfragkas.jpg)
 
 **Kleftiko**
@@ -112,6 +114,8 @@ For the rest of our time on Milos, we hired a moped and rode all over the island
 ## How we got to & from Milos
 
 Milos is part of the Cyclades group and is well connected by both air and sea. Since it was the first island we visited, we decided to fly from Athens to Milos. We flew with Sky Express and the flight was only 20 minutes long (on a tiny plane that I hysterically laughed on the entire journey because I was too scared to even cry). We paid $130AUD each for the flight. Otherwise, you can get a ferry from Athens to Milos which takes around seven hours.
+
+![](/img/milos-plane.jpg)
 
 After Milos we headed to Ios by ferry which took 3 hours and 15 minutes. I found the ferries in Greece to be frustratingly expensive (it was high season when we were there). We paid 50 euros each (~$77AUD) for this ferry.
 
