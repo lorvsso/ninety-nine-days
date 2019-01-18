@@ -11,7 +11,11 @@ tags:
 ---
 It’s no secret that the Greek Islands are incredible, but Milos was something else. The landscapes were totally unique and seriously breathtaking. It was a lot quieter than other Greek Islands and had a really nice vibe. 
 
+![](/img/milos-island.jpg)
+
 I've only been to Santorini, Ios, Kos and Milos, but Milos is my favourite by far – if you’re only going to visit one Greek Island, I recommend that it be Milos.
+
+![](/img/milos-island-2.jpg)
 
 ## Our favourite places on the island
 
@@ -35,11 +39,15 @@ We didn’t end up swimming at Papafragkas and instead rode around the cliffs a 
 
 Tsigrado is a small cove located on the South coast of Milos and is one of the coolest beaches I’ve visited. Access is difficult; you have to climb down two wooden ladders that are somewhat precariously mounted on the cliff side but it’s totally worth it once you reach the bottom. Tsigrado is far less crowded than a lot of the other beaches and we spent an entire day there (mostly because I fell asleep and woke up four hours later ooops). 
 
+![](/img/papfragkas.jpg)
+
 **Kleftiko**
 
 Once a pirates’ hideout, Kleftiko is now a popular cove, famed for its crystal clear water and the white rock formations that protrude from the ocean. 
 
 It’s only accessible by boat which means that you have to do a tour to get there. We were a little hesitant at first, but I read a few blog posts about it and everyone was raving so we decided to fork out the 25 euros (~$38AUD). 
+
+![](/img/kleftiko.jpg)
 
 Swimming in Kleftiko ended up being one of the highlights of the entire trip. Once we sailed around to Kleftiko, the boat stopped for two hours for us to go swimming. The water was ridiculously clear and we had so much fun swimming in and out of the caves and sunbaking on the rocks. 
 
@@ -51,27 +59,39 @@ We decided to splurge a little bit in Milos and book a relatively nice guesthous
 
 ![](/img/accomm.jpg)
 
+![](/img/accomm-3.jpg)
+
+![](/img/accomm-4.jpg)
+
+![](/img/accomm-5.jpg)
+
+![](/img/accomm-2.jpg)
+
 ## Where we ate
 
 On our first day in Milos we stumbled across [Artermis Bakery](https://www.google.com/maps/place/Artemis+Bakery/@36.7254489,24.4465886,15z/data=!4m2!3m1!1s0x0:0x26915aff33a9fdf6?ved=2ahUKEwiL9_iZ__bfAhXaT30KHWKtD_UQ_BIwDnoECAYQCA) down by the port. They sold lots of baked goods, but the focaccias caught our eye, and much to our delight they happened to be vegan. Every day we stocked up on a mix of olive, and tomato & capsicum focaccias for breakfast and lunch. They were ridiculously good and despite the fact that we pretty much rolled off Milos as one big pile of bread, eating the focaccias for breakfast and lunch everyday was a great way of keeping costs down (each focaccia was huge and only cost 2 euros). They were great too because they were easy to pack to eat at the beach.
 
 On our first night, we wandered down to the seaside to check out a cute little restaurant, lit up by fairy lights, that we’d driven past earlier that day. Mikros Apoplous, Apodo and Trapatseles are all next to each other and offer a similar menu. We chose to eat at Apodo because their vegan options looked the best. We happily watched the sunset while eating beautiful stuffed tomatoes and capsicums with Greek oven baked potatoes. We had such a lovely time that we came back every single night. It was great value too – a starter and two mains always came in at less than 20 euros.
 
+![](/img/dinner-views.jpg)
+
+![](/img/dinner.jpg)
+
 Overall, it was easy to eat (relatively) cheap in Milos and we had no trouble finding vegan food. Each day we normally spent ~15 euros on our meals.
 
-## 
-
-How we got around
+## How we got around
 
 The easiest and most cost-effective way to get around Milos is hiring a moped. The roads are quiet and riding from beach to beach was so much fun!!! Buses don’t run to many of the beaches that are off the beaten track and considering that these are some of the best beaches on the island, you don’t want to miss them! If you don’t hire a moped, the other option is taxis but this would get crazy expensive.
+
+![]()
 
 We decided that it wasn’t worth hiring a moped on our first day so we just got the public bus from Admantas Port to Sarkiniko and back which was only a 10-minute drive. The buses run every two hours and cost \~2 euros (\~$3AUD).
 
 For the rest of our time on Milos, we hired a moped and rode all over the island. From memory, it was around 20 euros (~$15AUD each) per day for moped hire. It's worth noting that we could only hire one because I had an international driver's license and we met some people who had to catch buses/taxis all over because they hadn't been able to hire a moped or quad. We also would have only been able to hire a very low power moped if I hadn’t had my motorbike license. If you want to know more about international driver's licenses, I wrote about them here.
 
-## 
+![](/img/milos-moped-2.jpg)
 
-How we got to & from Milos
+## How we got to & from Milos
 
 Milos is part of the Cyclades group and is well connected by both air and sea. Since it was the first island we visited, we decided to fly from Athens to Milos. We flew with Sky Express and the flight was only 20 minutes long (on a tiny plane that I hysterically laughed on the entire journey because I was too scared to even cry). We paid $130AUD each for the flight. Otherwise, you can get a ferry from Athens to Milos which takes around seven hours.
 
