@@ -19,6 +19,16 @@ I'm going to write a post specifically about our time on the circuit, but wanted
 
 ![null](/img/me-trekking.jpg)
 
+![](/img/near-annapurna-iii-bc.jpg)
+
+![](/img/mountains-2.jpg)
+
+![](/img/mountains-3.jpg)
+
+![](/img/high-camp.jpg)
+
+This one is from up at Poon Hill - it was completely foggy when we went up and the mountains were totally covered.
+
 ![null](/img/all-of-us-foggy-poon-hill.jpg)
 
 ![null](/img/jack-and-i-poon-hill.jpg)
@@ -29,7 +39,7 @@ I'm going to write a post specifically about our time on the circuit, but wanted
 
 ![null](/img/emma-on-the-stairs.jpg)
 
-Playing cards over a dahl baht was our fave thing to do. 
+Playing cards over a dahl baht was our fave thing to do at lunchtime. 
 
 ![null](/img/dahl-baht-cards.jpg)
 
@@ -37,7 +47,7 @@ Playing cards over a dahl baht was our fave thing to do.
 
 ![null](/img/me-playing-cards.jpg)
 
-Back in Pokhara
+Back in Pokhara. At our favourite restaurant (OR2K) and the Peace Pagoda. 
 
 ![null](/img/pokhara-balcony.jpg)
 
