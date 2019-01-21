@@ -15,42 +15,34 @@ At the end of 2018, Jack and I, along with Emma, one of my best friends from uni
 
 I'm going to write a post specifically about our time on the circuit, but wanted to share Emma's disposable film photos. They bring back the best memories! 
 
-![](/img/emma-and-i-manang.jpg)
+![null](/img/emma-and-i-manang.jpg)
 
-![](/img/me-trekking.jpg)
+![null](/img/me-trekking.jpg)
 
-![]()
+![null](/img/all-of-us-foggy-poon-hill.jpg)
 
+![null](/img/jack-and-i-poon-hill.jpg)
 
+![null](/img/emma-poon-hill.jpg)
 
+![null](/img/emma-with-rocks.jpg)
 
-
-
-
-![](/img/all-of-us-foggy-poon-hill.jpg)
-
-![](/img/jack-and-i-poon-hill.jpg)
-
-![](/img/emma-poon-hill.jpg)
-
-![](/img/emma-with-rocks.jpg)
-
-![](/img/emma-on-the-stairs.jpg)
+![null](/img/emma-on-the-stairs.jpg)
 
 Playing cards over a dahl baht was our fave thing to do. 
 
-![](/img/dahl-baht-cards.jpg)
+![null](/img/dahl-baht-cards.jpg)
 
-![](/img/emma-playing-cards.jpg)
+![null](/img/emma-playing-cards.jpg)
 
-![](/img/me-playing-cards.jpg)
+![null](/img/me-playing-cards.jpg)
 
 Back in Pokhara
 
-![](/img/pokhara-balcony.jpg)
+![null](/img/pokhara-balcony.jpg)
 
-![](/img/all-of-us-in-or2k.jpg)
+![null](/img/all-of-us-in-or2k.jpg)
 
-![](/img/emma-peace-pagoda.jpg)
+![null](/img/emma-peace-pagoda.jpg)
 
-![](/img/emma-i-peace-pagoda.jpg)
+![null](/img/emma-i-peace-pagoda.jpg)
