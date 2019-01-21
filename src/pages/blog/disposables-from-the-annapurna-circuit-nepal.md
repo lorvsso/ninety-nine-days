@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Disposables from the Annapurna Circuit, Nepal'
+featuredImage: /img/jack-and-i-poon-hill.jpg
 date: 2019-01-21T22:39:35.401Z
 description: November & December 2018
 tags:
@@ -19,13 +20,13 @@ I'm going to write a post specifically about our time on the circuit, but wanted
 
 ![null](/img/me-trekking.jpg)
 
-![](/img/near-annapurna-iii-bc.jpg)
+![null](/img/near-annapurna-iii-bc.jpg)
 
-![](/img/mountains-2.jpg)
+![null](/img/mountains-2.jpg)
 
-![](/img/mountains-3.jpg)
+![null](/img/mountains-3.jpg)
 
-![](/img/high-camp.jpg)
+![null](/img/high-camp.jpg)
 
 This one is from up at Poon Hill - it was completely foggy when we went up and the mountains were totally covered.
 
