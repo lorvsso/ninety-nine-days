@@ -1,7 +1,7 @@
 import React from "react";
 
 import BioPic from "../images/bio_pic.jpg";
-import InstaFeed from "./InstaFeed";
+// import InstaFeed from "./InstaFeed";
 
 const AuthorBio = () => {
   return (
@@ -15,9 +15,9 @@ const AuthorBio = () => {
         <p className="b lh-heading f3 fw3">by Sarah Jackson</p>
       </div>
       <div className="mt4">
-        <a href="https://instagram.com/sahjackson">
+        {/* <a href="https://instagram.com/sahjackson">
           <InstaFeed />
-        </a>
+        </a> */}
         <a
           className="link bb-0 dark-gray border f5 db mb3 mt2"
           href="https://instagram.com/sahjackson"
