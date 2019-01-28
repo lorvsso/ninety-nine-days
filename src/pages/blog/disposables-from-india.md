@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Disposables from India
-featuredImage: /img/india-disposables-feature-image.jpg
+featuredImage: /img/03170012.jpg
 date: 2019-01-24T05:06:56.177Z
 description: December 2018
 tags:
