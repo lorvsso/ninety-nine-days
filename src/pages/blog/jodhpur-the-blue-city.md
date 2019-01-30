@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Jodhpur: The Blue City'
-featuredImage: /img/jodhpur-feature-image.jpg
+featuredImage: /img/updated-jodhpur-feature-image.jpg
 date: 2019-01-28T23:55:32.077Z
 description: December 2018
 tags:
