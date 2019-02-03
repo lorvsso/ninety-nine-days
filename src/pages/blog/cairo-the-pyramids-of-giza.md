@@ -28,7 +28,17 @@ There are so many budget options in Cairo, but upon recommendation we stayed at 
 
 ![null](/img/cat.jpg)
 
-We then spent 2 nights at the [Marriott Mena House in Giza](https://www.marriott.com/hotels/travel/caimn-marriott-mena-house-cairo/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2) as a treat. If you’re looking for something a little more bougie, I can’t recommend it enough. The grounds are incredible: well-manicured lawns, beautiful gardens, a fancy swimming pool and a gym & sauna. Not to mention that we literally had a private balcony that had an incredible view of the pyramids. (If you decide to stay there, request room 438 – it’s on the top floor and at the perfect angle to see the Great Pyramid). We scored a last minute deal on Booking.com and paid $175USD per night (~$120AUD per person). As an aside, the security here was really stringent: a sniffer dog inspected the taxi and our luggage when we arrived, and to enter into the reception and the hotel room building, our baggage had to be scanned and we had to go through a metal detector.
+We then spent 2 nights at the [Marriott Mena House in Giza](https://www.marriott.com/hotels/travel/caimn-marriott-mena-house-cairo/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2) as a treat. If you’re looking for something a little more bougie, I can’t recommend it enough. The grounds are incredible: well-manicured lawns, beautiful gardens, a fancy swimming pool and a gym & sauna. 
+
+![](/img/mena.jpg)
+
+![](/img/breakfast.jpg)
+
+Not to mention that we literally had a private balcony that had an incredible view of the pyramids. (If you decide to stay there, request room 438 – it’s on the top floor and at the perfect angle to see the Great Pyramid). 
+
+![](/img/balcony.jpg)
+
+We scored a last minute deal on Booking.com and paid $175USD per night (~$120AUD per person). As an aside, the security here was really stringent: a sniffer dog inspected the taxi and our luggage when we arrived, and to enter into the reception and the hotel room building, our baggage had to be scanned and we had to go through a metal detector.
 
 ## What we did
 
@@ -53,6 +63,8 @@ We also walked out to an amazing viewpoint where you can see all nine of the Pyr
 ![null](/img/me-in-front-of-the-pyramids-2.jpg)
 
 ![null](/img/jack-and-i-in-front-of-the-pyramids.jpg)
+
+![](/img/pyramids.jpg)
 
 Entry to the pyramids is only 120EGP (\~$12AUD) and 60EGP (\~$6AUD) for a student, however it’s 360EGP (~$36AUD) to enter into the Great Pyramid (I probably would have paid that much to not go through the experience). We got an Uber from central Cairo to Giza and it only cost $8.50AUD. 
 
@@ -96,21 +108,23 @@ In central Cairo, you can’t go past [Kazaz](https://www.google.lk/maps/place/K
 
 We travelled overland in and out of Egypt seeing as we were already in the Middle East. Into Egypt, we travelled from Aqaba, Jordan to Cairo which took a total of 17 hours. Out of Egypt, we travelled from Cairo to Jerusalem which took a ridiculous and exhausting 25 hours. If you want to know more about this option, I’ve written a dedicated blog post about the logistics of traveling overland through Jordan, Israel and Egypt.
 
+![](/img/sinai-peninsular.jpg)
+
 If you want to do a trip just to Egypt, I was surprised to find out that it’s relatively inexpensive to fly into Cairo from Europe: you should be able to get return flights from Athens, Rome or Paris for around $350 AUD (Aegean Airlines is your best bet).
 
 ## How much we spent
 
-We arrived in Egypt on Monday 27th August and crossed back into Israel on Saturday 1st September. Across our six days in Egypt, we spent XXX each. This is the breakdown:
+We arrived in Egypt on Monday 27th August and crossed back into Israel on Saturday 1st September. Across our six days in Egypt, we spent $515 each. This would have been significantly cheaper if we hadn't decided to splash out on nice accommodation. Not including getting to/from Egypt, if you stayed in a hostel the entire time, I think that budgeting $25AUD per day is reasonable. This is the breakdown of what we spent:
 
-Transport:
+Transport: 220 EGP (~$17AUD) per person. We took no public transport and barely walked because it was so hot. This price is based on taking taxis/ubers everywhere.
 
-Food:
+Food & Water: 870 EGP  (~$68AUD) per person. We ate half our meals at the super budget Kazaz, but the other half of our meals were eaten at Mena House which was considerably more expensive.
 
-Accommodation:
+Accommodation: $267AUD per person. This was for two nights in a budget hostel (~$23AUD) and two nights in the much more expensive Marriott Mena House ($244AUD). Our time in Egypt would have been considerably cheaper had we stayed all nights at Meramees.
 
-Sightseeing: 
+Sightseeing: 560EGP (~$43AUD) per person. This includes entry to and sightseeing around the pyramids as well as all the entry fees we paid in Cairo.
 
-Exit and entry: 400 EGP Land Tax, 
+Traveling to and from Egypt: 1525EGP (~$120AUD) per person. I wrote a detailed post on how we travelled from Jordan to Egypt and then back to Israel here which covers a breakdown of costs.
 
 ## Visas
 
