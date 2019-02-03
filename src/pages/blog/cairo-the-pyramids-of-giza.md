@@ -97,3 +97,21 @@ In central Cairo, you can’t go past [Kazaz](https://www.google.lk/maps/place/K
 We travelled overland in and out of Egypt seeing as we were already in the Middle East. Into Egypt, we travelled from Aqaba, Jordan to Cairo which took a total of 17 hours. Out of Egypt, we travelled from Cairo to Jerusalem which took a ridiculous and exhausting 25 hours. If you want to know more about this option, I’ve written a dedicated blog post about the logistics of traveling overland through Jordan, Israel and Egypt.
 
 If you want to do a trip just to Egypt, I was surprised to find out that it’s relatively inexpensive to fly into Cairo from Europe: you should be able to get return flights from Athens, Rome or Paris for around $350 AUD (Aegean Airlines is your best bet).
+
+## How much we spent
+
+We arrived in Egypt on Monday 27th August and crossed back into Israel on Saturday 1st September. Across our six days in Egypt, we spent XXX each. This is the breakdown:
+
+Transport:
+
+Food:
+
+Accommodation:
+
+Sightseeing: 
+
+Exit and entry: 400 EGP Land Tax, 
+
+## Visas
+
+If you're from Australia, you need a visa to enter into Egypt. We applied for our visa in Aqaba, Jordan which only took \~6 hours. It cost 22JD (\~$42AUD). You can also apply for an eVisa [here](https://www.visa2egypt.gov.eg/eVisa/Home;jsessionid=H0pgyNtvBWl4P23G-mcr3wgrHznbfmF8NtxCnwaP.pp-ui-01?VISTK=V8A9-EATX-J8S8-M2AY-CV0C-5LLC-QFDP-G1O9-C2WJ-89B1-KYCX-NYLN-S2T8-4HD8-PCFH-KZVW).
