@@ -14,13 +14,15 @@ Trekking in Annapurna is one of the best things I’ve ever done. The surroundin
 
 For the trek to ABC, I organised for myself and 10 friends to do the trek together. The 2015 earthquake that devastated Nepal combined with negative media attention following the fuel crisis later that year really shattered the tourism industry at a time when income was most needed. Jack and I decided that we really wanted to return to Nepal to support my friend and trekking guide Gajendra’s business, and were stoked when so many of our friends were keen to join us. Spending three weeks in Nepal with my best friends was one of the most amazing and fun things I’ve ever done. If only I could go back in time and relive it.
 
-We caught the public bus from Kathmandu to Pokhara (it leaves Pokhara at \~6am and arrives in Pokhara at \~1pm) and then started our trek the next day. Most days we would wake up at around 6:30am and eat breakfast at 7am before setting off at around 7:30/8am. We walked for a few hours in the morning and then at around 11:30am would stop for lunch for an hour or two. After lunch we walked for another couple of hours and usually arrived at a tea house by 4pm. We’d then rest (and sometimes nap) until dinner, and after dinner would spend the night playing cards. Having said that, I don’t think there was a night that we were in bed later than around 9pm! Of course, along the way we stopped frequently for tea and chocolate breaks and to take photos. 
+If you want to trek in the Annapurna region, Pokhara is the place to begin. We caught the public bus from Kathmandu to Pokhara (it leaves Kathmandu at \~6am and arrives in Pokhara at \~1pm) and then started our trek the next day. You can also fly or organise a private transfer - I talked about the pros and cons of both here.
+
+Most days we would wake up at around 6:30am and eat breakfast at 7am before setting off at around 7:30/8am. We walked for a few hours in the morning and then at around 11:30am would stop for lunch for an hour or two. After lunch we walked for another couple of hours and usually arrived at a tea house by 4pm. We’d then rest (and sometimes nap) until dinner, and after dinner would spend the night playing cards. Having said that, I don’t think there was a night that we were in bed later than around 9pm! Of course, along the way we stopped a lot for tea & chocolate breaks and to take photos. 
 
 ## Our Trekking Itinerary
 
 **Day 1**
 
-We drove in a minibus from Pokhara (1,400m) to Nayapul (1,070m). This took around 2 hours and was a (very) bumpy ride. We then trekked from Nayapul to Tirkedhunga (1,480m) which only took a couple of hours. Most of this was along a dusty dirt road though so wasn't the nicest place to trek.
+We drove in a minibus from Pokhara (1,400m) to Nayapul (1,070m). This took around 2 hours and was a (very) bumpy ride. We then trekked from Nayapul to Tirkedhunga (1,480m) which only took a couple of hours. Most of this was along a dusty dirt road though so wasn't the nicest place to trek. 
 
 **Day 2**
 
@@ -40,21 +42,19 @@ We trekked from Chumrung (2,170m) to Dovan (2,600m).
 
 **Day 6**
 
-Another huge uphill day, we trekked from Dovan (2,600m) to Annapurna Base Camp (4,310m). Along the way, we stopped at Machapuchare Base Camp (MBC) for tea. The trek from MBC to ABC was incredible - we were totally surrounded by mountains at this stage, many of them higher than 8,000m, and there was snow everywhere creating a total white covering. The stars from ABC were amazing; the entire sky was filled with them.
+Another huge uphill day, we trekked from Dovan (2,600m) to Annapurna Base Camp (4,310m). Along the way, we stopped at Machapuchare Base Camp (MBC) for tea. The trek from MBC to ABC was incredible - we were totally surrounded by mountains at this stage, many of them higher than 8,000m, and there was snow everywhere creating a total white covering. The stars at ABC were amazing; the entire sky was filled with them. This place is really special.
 
 **Day 7**
 
-After a freezing cold night, we woke up for sunrise over the Annapurna mountains. We then trekked from Annapurna Base Camp (4,310m) to Bomboo (2,310m).
+After a freezing cold night, we woke up for sunrise over the Annapurna mountains. It was truly breathtaking. We then trekked from Annapurna Base Camp (4,310m) to Bomboo (2,310m). It felt good to get down lower where we could breathe easier and it was a little less chilly.
 
 **Day 8**
 
-We trekked from Bomboo (2,310m) to Jhinu (1,780m). From Jhinu, it's only a 20 minute walk down to some natural hot springs. We spent the afternoon soeaking in the hot springs for literally hours; soothing our tired muscles and thawing out our cold bodies.
+We trekked from Bomboo (2,310m) to Jhinu (1,780m). From Jhinu, it's only a 20 minute walk down to some natural hot springs. We spent the afternoon soaking in the hot springs for literally hours; soothing our tired muscles and thawing out our cold bodies. This place is wonderful and completely worth the detour.
 
 **Day 9**
 
-We spent a few hours in the morning trekking from Jhinu (1,780m) to Birenthati (1,100m) and then drove in a minibus from Birenthati to Pokhara
-
- (1,400m). Once we were back in Pokhara we had a blissful shower and then spent the next couple of days relaxing and sightseeing. 
+We spent a few hours in the morning trekking from Jhinu (1,780m) to Birenthati (1,100m) and then drove in a minibus from Birenthati back to Pokhara (1,400m). Once we were back in Pokhara we had a blissful shower and then spent the next couple of days relaxing and sightseeing. 
 
 ## Where we stayed
 
@@ -64,15 +64,16 @@ Each night we stopped in a little village and stayed in tea houses. These have b
 
 We ate breakfast and dinner at the tea houses we stayed in and then stopped for lunch somewhere along the way and had a cooked meal. Food takes a long time to cook in the mountains, so our lunch breaks would generally be 1 – 2 hours long, and we had to order breakfast the night before so that it would be ready when we woke up.
 
-The menu at every single tea house is pretty much the same. My favourite meal on offer is dahl baht – a Nepali dish that is literally the best. It’s served as a thali-style dish and is made up of rice, potato vegetable curry, dahl soup, greens and comes with chillies and pickles. The best part is that you get free refills! Other options include fried rice, veg fried noodles, noodle soup, pizza and pasta. It’s super easy to get pretty much anything done vegan. Although food in Nepal is very inexpensive, the further you climb, the more expensive the food is – by Annapurna Base Camp, meals such as dahl baht were around 600NRS (~$7AUD). 
+The menu at every  tea house is pretty much the same. My favourite meal on offer is dahl baht – a Nepali dish that is literally the best. It’s served as a thali-style dish and is made up of rice, potato vegetable curry, dahl soup, greens and comes with chillies and pickles. The best part is that you get free refills! Other options include fried rice, veg fried noodles, noodle soup, pizza and pasta. It’s super easy to get pretty much anything done vegan. Although food in Nepal is very inexpensive, the further you climb, the more expensive the food is – by Annapurna Base Camp, meals such as dahl baht were around 600NRS (~$7AUD). 
 
 Most places along the Annapurna Base Camp route have filtered water to refill your bottle for \~50NRS (\~70c AUD). 
-	
 
 ## How much we paid
 
-From memory, we paid $920 AUD per person. This was substantially cheaper than it would otherwise be if you either went with a big company like Intrepid (their ABC package is ~$1600AUD) but still a lot more expensive than if we did the trek without a guide. This price included an airport pickup and drop off at Kathmandu airport, our travel to and from Pokhara, a day of sightseeing in Pokhara, all meals for the entire trek and accommodation during the trek as well as two nights in Pokhara. 
+From memory, we paid $920 AUD per person. This was substantially cheaper than it would otherwise be if you went with a big company like Intrepid (their ABC package is ~$1600AUD). It's still a lot more expensive than if we did the trek without a guide though. This price included an airport pickup and drop off at Kathmandu airport, our travel to and from Pokhara, a day of sightseeing in Pokhara, all meals for the entire trek and accommodation during the trek as well as two nights in Pokhara. 
 
 However much you do pay, make sure that you build in a budget to tip your porters. I’d recommend tipping your porters ~$10AUD per day (i.e. $50 for a 5-day trek, $100 for a 10-day trek). 
 
 It is entirely possible to complete any of the treks in the Annapurna region without a guide. I’ve written about my experience of trekking with Gajendra as well as the pros and cons of having a trekking guide here.
+
+Trekking in Nepal definitely deserves a spot on your bucket list - there are few things better. I think that Annapurna Base Camp is the perfect trek to do; Poon Hill is quite a short trek and the views of the mountains are less spectacular, and the entire Annapurna Circuit is a big commitment (physically and time wise). I already can't wait to go back!
