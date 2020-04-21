@@ -26,7 +26,21 @@ These are the film photos that Kate and I took on her camera.
 
 ![null](/img/r1-09197-0034.jpg)
 
-LISBON HERE
+![](/img/2.jpg)
+
+![](/img/4.jpg)
+
+![](/img/5.jpg)
+
+![](/img/12.jpg)
+
+![](/img/3.jpg)
+
+![](/img/7.jpg)
+
+![](/img/10.jpg)
+
+![](/img/1.jpg)
 
 ![](/img/r1-09197-0026.jpg)
 
