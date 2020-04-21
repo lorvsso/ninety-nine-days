@@ -76,6 +76,4 @@ These are the film photos that Kate and I took on her camera.
 
 ![](/img/r1-09197-0005.jpg)
 
-![](/img/3.jpg)
-
 ![null](/img/r1-09197-0002.jpg)
