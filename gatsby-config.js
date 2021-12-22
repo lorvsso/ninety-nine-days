@@ -46,7 +46,6 @@ module.exports = {
         respectDNT: true
       }
     },
-    "gatsby-plugin-netlify-cache",
     "gatsby-plugin-netlify" // make sure to keep it last in the array
   ]
 };
