@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: My Favourite Campsites in NSW
+featuredImage: /img/9694db40-8316-4a66-98dd-d78684de1f30.jpeg
 date: 2021-12-22T10:29:46.524Z
 description: 2020 - 2021
 tags:
