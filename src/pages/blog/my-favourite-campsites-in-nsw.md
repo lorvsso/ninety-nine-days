@@ -67,7 +67,7 @@ PS - obsessed with eating noodles when camping! Cheesy potatoes cooked in the ca
 
 ![](/img/0b6b8e2c-3715-447d-a785-07af88b59c93.jpg)
 
-****
+
 
 **Tallow Beach (Darkinjung Country)**
 
