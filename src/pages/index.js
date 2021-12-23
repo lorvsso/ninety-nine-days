@@ -5,7 +5,7 @@ import Layout from "../components/Layout";
 import AuthorBio from "../components/AuthorBio";
 import GridItem from "../components/GridItem";
 
-import "../styles/base.scss";
+import "../styles/base.css";
 
 export default class IndexPage extends React.Component {
   render() {
@@ -39,9 +39,9 @@ export default class IndexPage extends React.Component {
 IndexPage.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
-      edges: PropTypes.array
-    })
-  })
+      edges: PropTypes.array,
+    }),
+  }),
 };
 
 export const pageQuery = graphql`
