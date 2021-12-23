@@ -41,7 +41,7 @@ I’m heading back there after Christmas and will do a dedicated post on Belling
 
 ![](/img/img_6086.jpg)
 
-The campsite is $12 per person per night, and I'd recommend going for the area marked "walk-in camp area" because it has a much more secluded feel to it.
+The campsite is $12 per person per night, and I'd recommend booking the area marked "walk-in camp area" because it has a much more secluded feel to it.
 
 ![](/img/img_6073.jpg)
 
