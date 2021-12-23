@@ -17,7 +17,7 @@ My friend Gaia and I visited in January 2021 and camped at the free campground i
 
 ![](/img/img_7516.jpg)
 
-The Bellingen & Dorrigo area feels magical; waterfalls around every turn with so many spots to go for a swim. The highlight for me was ‘The Promised Lands’ (also known as Never Never Creek).
+The Bellingen & Dorrigo area feels magical; waterfalls around every turn with so many swimming spots. The highlight for me was ‘The Promised Lands’ (also known as Never Never Creek).
 
 ![](/img/img_7517.jpg)
 
