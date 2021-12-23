@@ -27,6 +27,30 @@ I’m heading back there after Christmas and will do a dedicated post on Belling
 
 
 
+**Diamond Head**
+
+****
+
+**Pebbly Beach**
+
+****
+
+**Tallow Beach (Darkinjung Country)**
+
+[Tallow Beach](https://www.nationalparks.nsw.gov.au/camping-and-accommodation/campgrounds/tallow-beach-campground), in the Bouddi National Park, is a cracker campsite, with views of the beach from the campsite and a feeling of total isolation. Some of the best stargazing I've ever done is here. 100km North of Sydney, it's easy to pop up here for a quick trip.
+
+![](/img/img_7524.jpg)
+
+![](/img/img_7525.jpg)
+
+The campsite is a 20 minute steep downhill walk from the carpark, so definitely one to pack light for!
+
+![](/img/img_7526.jpg)
+
+If you have extra time, the Bouddi Coastal walk (16km return) is beautiful.
+
+
+
 **Barrington Tops**
 
 Barrington Tops is a beautiful national park to camp in. We stayed just outside it at the [Riverwood Downs campsite](https://www.riverwooddowns.com.au/) with a big bunch of friends in January 2021. 240km North of Sydney, it’s situated right on the Karuah River.
@@ -36,6 +60,22 @@ If you visit, try and head as far up the river as you can to find a nice seclude
 ![](/img/img_7511.jpg)
 
 Riverwood Downs has great amenities: there are hot showers, powered sites and a store to buy ice-cream from. It has a restaurant too, as well as a bunch of cabins that you can stay in if you want something more luxe. Having said that, it’s pretty busy and the campsite gets packed so it doesn’t have that same feel of being out in nature as some of the other campsites have. This campsite costs $16 per person per night and tends to book up pretty fast. 
+
+
+
+**Euroka (Dharug Country)**
+
+I wanted to stay at [Euroka Campground](https://www.nationalparks.nsw.gov.au/camping-and-accommodation/campgrounds/euroka-campground) because of its proximity to Jelly Bean Pools. It’s just outside a little town called Glenbrook which is full of cute little cafes and boutiques. Euroka is actually part of Greater Sydney and is only 65km West of the Sydney CBD. We spent the weekend there once the 5km lockdown limit was lifted in Sydney. 
+
+![](/img/img_2404.jpg)
+
+![](/img/img_5550.jpg)
+
+The campsite is basic; no showers and a drop toilet only, but it does have fire pits. It costs $12 per person per night to stay there. Just note that there are gates to access the campsite that close every night. We nearly got locked out, so it’s worth checking what time they’ll close depending on the season! 
+
+![](/img/img_7523.jpg)
+
+![](/img/c1e4c265-c248-4a8d-94ec-977f7deb2b20.jpg)
 
 
 
