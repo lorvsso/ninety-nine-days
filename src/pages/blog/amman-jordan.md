@@ -58,7 +58,7 @@ Amman is probably the one place that I’d recommend really covering up as it fe
 
 ![null](/img/img_8144.jpg)
 
-## How we got there test
+## How we got there 
 
 We flew directly from Ankara, Turkey to Amman, Jordan with Pegasus Airlines. We booked this flight really late (only a week out) so it ended up costing $219AUD each. The flight was only 2 hours and despite the unnervingly intense security checks leaving Ankara, everything went smoothly. It was actually a really cool flight – we flew over Cyprus and then across Tel Aviv before being completely surrounded by desert when we landed in Amman. 
 
