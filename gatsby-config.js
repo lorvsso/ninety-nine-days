@@ -20,13 +20,6 @@ module.exports = {
     },
     `gatsby-transformer-remark`,
     {
-      resolve: "gatsby-plugin-netlify-cms",
-      options: {
-        modulePath: `${__dirname}/src/cms/cms.js`,
-        stylesPath: `${__dirname}/src/styles/base.css`,
-      },
-    },
-    {
       resolve: `gatsby-plugin-google-gtag`,
       options: {
         trackingIds: ["UA-77015609-4"],
@@ -45,6 +38,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-postcss`,
-    "gatsby-plugin-netlify", // make sure to keep it last in the array
+    `gatsby-plugin-netlify-cms`,
   ],
 };
