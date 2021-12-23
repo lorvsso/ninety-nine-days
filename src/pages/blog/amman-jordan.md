@@ -7,7 +7,7 @@ description: August 2018
 tags:
   - Amman
   - Jordan
-  - Middle East
+  - The Middle East
   - Vegan
 ---
 The one full day we’d planned to spend in Amman happened to coincide with Eid al-Adha. Eid al-Ahda, also known as the Festival of Sacrifice, honours the willingness of Ibrahim to sacrifice his son. Before Ibrahim did sacrifice his son however, God provided a lamb to sacrifice instead. Accordingly, an animal is sacrificed during Eid al-Adha and divided into three parts - one part is given to those less fortunate, one part is kept for the home and the third part is shared with relatives.
