@@ -6,7 +6,7 @@ date: 2018-11-19T02:50:25.748Z
 description: November 2018
 tags:
   - Oman
-  - Middle East
+  - The Middle East
 ---
 When we flew from Sri Lanka to Nepal, I couldn’t find a direct flight from Colombo to Kathmandu, so there was no avoiding a stopover. We could have flown with Air India, but for pretty much the same price we could fly with Oman Air and have a stopover in Muscat. Oman Air has a better safety record and rating than Air India, plus I figured it would be fun to be able to check out a new country, even if it was only for 18 hours.
 
