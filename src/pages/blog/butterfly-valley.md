@@ -8,6 +8,6 @@ tags:
   - Butterfly Valley
   - Fethiye
   - Turkey
-  - Middle East
+  - The Middle East
 ---
 Oooops, still working on this one!
