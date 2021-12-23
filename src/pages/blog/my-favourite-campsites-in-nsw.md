@@ -13,7 +13,7 @@ A few people have asked for camping recommendations so I’m blogging a little c
 
 My number one spot in NSW is Bellingen. I love it so much that it’s probably one of my favourite spots in the entire world; I’m pretty set on one day doing some locum work up here! Bellingen is 515km North of Sydney and the drive is around five and a half hours.
 
-My friend Gaia and I visited in January 2021 and camped at the free campground in Thora: [Roses Park Rest Area](http://www.camparoundaustralia.com.au/campsites/roses-park-rest-area/). It doesn’t require bookings, so is great for a last minute trip. Set amongst the mountains and pine trees, it’s only a minute walk down to the river - perfect since the campground is very basic and doesn't have showers (its only amenities are drop toilets). The service station next door doubles as a general store and also serves delicious toasties (vegan options and all) and also sells alcohol and basic supplies. 
+My friend Gaia and I visited in January 2021 and camped at the free campground in Thora: [Roses Park Rest Area](http://www.camparoundaustralia.com.au/campsites/roses-park-rest-area/). It doesn’t require bookings, so is great for a last minute trip. Set amongst the mountains and pine trees, it’s only a minute walk down to the river - perfect since the campground is very basic and doesn't have showers (its only amenities are drop toilets). The service station next door doubles as a general store and serves delicious toasties (vegan options and all) and also sells alcohol and basic supplies. 
 
 ![](/img/img_7516.jpg)
 
