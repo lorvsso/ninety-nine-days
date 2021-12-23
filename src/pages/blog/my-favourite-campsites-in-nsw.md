@@ -57,8 +57,6 @@ We actually tried to stay here again last month, but the campground is unfortuna
 
 ![](/img/92e72fb1-7929-43ee-b4e2-e2b01cb4c177.jpg)
 
-![](/img/0b6b8e2c-3715-447d-a785-07af88b59c93.jpg)
-
 ![](/img/6d8f5436-9cf9-4abc-a2c5-925887e7b579.jpg)
 
 ![](/img/7c01eabe-82fe-4904-b074-365a3d681f66.jpg)
@@ -66,6 +64,8 @@ We actually tried to stay here again last month, but the campground is unfortuna
 Both campgrounds cost $12 per person per night and are ~270km South of Sydney.
 
 PS - obsessed with eating noodles when camping! Cheesy potatoes cooked in the campfire are also another favourite. 
+
+![](/img/0b6b8e2c-3715-447d-a785-07af88b59c93.jpg)
 
 ****
 
