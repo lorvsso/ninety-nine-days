@@ -4,9 +4,6 @@ import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import AuthorBio from "../components/AuthorBio";
 import GridItem from "../components/GridItem";
-
-import "../styles/base.scss";
-
 export default class IndexPage extends React.Component {
   render() {
     const { data } = this.props;
@@ -39,9 +36,9 @@ export default class IndexPage extends React.Component {
 IndexPage.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
-      edges: PropTypes.array
-    })
-  })
+      edges: PropTypes.array,
+    }),
+  }),
 };
 
 export const pageQuery = graphql`
