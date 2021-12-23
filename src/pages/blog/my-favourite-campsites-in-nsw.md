@@ -29,7 +29,21 @@ I’m heading back there after Christmas and will do a dedicated post on Belling
 
 **Diamond Head (Biripi Country)**
 
-[Diamond Head](https://www.nationalparks.nsw.gov.au/camping-and-accommodation/campgrounds/diamond-head-campground), 350km North of Sydney, is probably the best campground I've ever camped at.
+[Diamond Head](https://www.nationalparks.nsw.gov.au/camping-and-accommodation/campgrounds/diamond-head-campground), 350km North of Sydney, is probably the best campground I've ever camped at. The photos do all of the talking; this spot is insanely pretty.
+
+![](/img/img_7532-1-.jpg)
+
+![](/img/img_6064.jpg)
+
+![](/img/img_6074.jpg)
+
+![](/img/c3bce505-003a-489e-8a80-a60e414b9ff3.jpg)
+
+![](/img/img_6086.jpg)
+
+The campsite is $12 per person per night, and I'd recommend going for the area marked "walk-in camp area" because it has a much more secluded feel to it.
+
+![](/img/img_6073.jpg)
 
 
 
