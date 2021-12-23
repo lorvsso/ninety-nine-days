@@ -34,9 +34,12 @@ const Navbar = () => (
       <Link className="link dim black-60 ml3 dib" to="/tags/asia">
         Asia
       </Link>
-      <Link className="link dim black-60 ml3 dib" to="/tags/central-america">
-        Central&nbsp;America
+      <Link className="link dim black-60 ml3 dib" to="/tags/australia">
+        Australia
       </Link>
+      {/* <Link className="link dim black-60 ml3 dib" to="/tags/central-america">
+        Central&nbsp;America
+      </Link> */}
       <Link className="link dim black-60 ml3 dib" to="/tags/europe">
         Europe
       </Link>
@@ -46,9 +49,9 @@ const Navbar = () => (
       <Link className="link dim black-60 ml3 dib" to="/tags/vegan">
         Vegan
       </Link>
-      <Link className="link dim black-60 dib ml3" to="/tags/zero-waste">
+      {/* <Link className="link dim black-60 dib ml3" to="/tags/zero-waste">
         Zero&nbsp;Waste
-      </Link>
+      </Link> */}
     </div>
   </nav>
 );
