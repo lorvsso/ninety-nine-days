@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
-title: 'Carpet Shopping in Cappadocia: A Photo Diary'
+title: "Carpet Shopping in Cappadocia: A Photo Diary"
 featuredImage: /img/carpet-shopping-feature-image.jpg
 date: 2018-11-19T01:45:00.070Z
 description: August 2018
 tags:
   - Cappadocia
   - Turkey
-  - Middle East
+  - The Middle East
 ---
 I don’t often buy a lot when I travel, but I knew that when I went back to Turkey, I wanted to buy a rug or carpet. I’d seen photos online of an amazing carpet shop in Cappadocia, so insisted that we held out on our carpet shopping until we arrived in Gorëme, the main town in Cappadocia. On our first day there, we wandered the streets searching for the shop, and I was over the moon when we found it.
 
