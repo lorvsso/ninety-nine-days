@@ -53,7 +53,7 @@ Some of my best memories are at [Pebbly Beach](https://www.nationalparks.nsw.gov
 
 The beach is lovely for swimming and the campground is often visited by families of kangaroos.
 
-We actually tried to stay here again last month, but the campground is unfortunately closed for renovations at the moment. We stayed at [Pretty Beach](https://www.google.com/search?q=pretty+beach&oq=pretty+beach&aqs=chrome..69i57j46i10i433j46i10i175i199l4j0i10j46i10i175i199j0i10l2.1915j0j4&sourceid=chrome&ie=UTF-8) instead, which is also in the [Murramarang National Park](https://www.nationalparks.nsw.gov.au/visit-a-park/parks/murramarang-national-park), and it was nice, but not quite the same as Pebbly. These photos are from Pretty Beach.
+We actually tried to stay here again last month, but the campground is unfortunately closed for renovations at the moment. We stayed at [Pretty Beach](https://www.nationalparks.nsw.gov.au/camping-and-accommodation/campgrounds/pretty-beach-campground-murramarang-national-park) instead, which is also in the [Murramarang National Park](https://www.nationalparks.nsw.gov.au/visit-a-park/parks/murramarang-national-park), and it was nice, but not quite the same as Pebbly. These photos are from Pretty Beach.
 
 ![](/img/92e72fb1-7929-43ee-b4e2-e2b01cb4c177.jpg)
 
@@ -99,7 +99,7 @@ Riverwood Downs has great amenities: there are hot showers, powered sites and a 
 
 **Euroka (Dharug Country)**
 
-I wanted to stay at [Euroka Campground](https://www.nationalparks.nsw.gov.au/camping-and-accommodation/campgrounds/euroka-campground) because of its proximity to Jelly Bean Pools. It’s just outside a little town called Glenbrook which is full of cute little cafes and boutiques. Euroka is actually part of Greater Sydney and is only 65km West of the Sydney CBD. We spent the weekend there once the 5km lockdown limit was lifted in Sydney. 
+I wanted to stay at [Euroka Campground](https://www.nationalparks.nsw.gov.au/camping-and-accommodation/campgrounds/euroka-campground) because of its proximity to [Jelly Bean Pools](https://www.nationalparks.nsw.gov.au/things-to-do/walking-tracks/jellybean-track). It’s just outside a little town called Glenbrook which is full of cute little cafes and boutiques. Euroka is actually part of Greater Sydney and is only 65km West of the Sydney CBD. We spent the weekend there once the 5km lockdown limit was lifted in Sydney. 
 
 ![](/img/img_2404.jpg)
 
@@ -115,7 +115,7 @@ The campsite is basic; no showers and a drop toilet only, but it does have fire 
 
 **The Basin (Gadigal Country)**
 
-Finally, if you’re really pressed on time, a night away at [The Basin](https://www.nationalparks.nsw.gov.au/camping-and-accommodation/campgrounds/the-basin-campground) does the trick and makes you feel as though you’ve escaped the city. The Basin is a quick 20-minute [ferry ride](https://www.fantasea.com.au/palm-beach-ferries/timetable/) from Palm Beach Jetty and has all of the makings of a good campsite. On your way home, I'd recommend a stop at the [Boat House](https://www.theboathousepb.com.au/) for a feed.
+Finally, if you’re really pressed on time, a night away at [The Basin](https://www.nationalparks.nsw.gov.au/camping-and-accommodation/campgrounds/the-basin-campground) does the trick and will have you feeling as if you’ve escaped the city. The Basin is a quick 20-minute [ferry ride](https://www.fantasea.com.au/palm-beach-ferries/timetable/) from Palm Beach Jetty and has all of the makings of a good campsite. On your way home, I'd recommend a stop at the [Boat House](https://www.theboathousepb.com.au/) for a feed.
 
 ![](/img/img_7522.jpg)
 
