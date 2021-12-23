@@ -27,11 +27,31 @@ I’m heading back there after Christmas and will do a dedicated post on Belling
 
 
 
-**Diamond Head**
+**Diamond Head (Biripi Country)**
 
-****
+[Diamond Head](https://www.nationalparks.nsw.gov.au/camping-and-accommodation/campgrounds/diamond-head-campground), 350km North of Sydney, is probably the best campground I've ever camped at.
 
-**Pebbly Beach**
+
+
+**Pebbly Beach (Yuin Country)**
+
+Some of my best memories are at [Pebbly Beach](https://www.nationalparks.nsw.gov.au/camping-and-accommodation/campgrounds/pebbly-beach-campground-yuraygir-national-park). I used to go on holiday with my grandparents every year to Sussex Inlet, and my parents and I would spend a day down at Pebbly Beach each time. 
+
+The beach is lovely for swimming and the campground is often visited by families of kangaroos.
+
+We actually tried to stay here again last month, but the campground is unfortunately closed for renovations at the moment. We stayed at [Pretty Beach](https://www.google.com/search?q=pretty+beach&oq=pretty+beach&aqs=chrome..69i57j46i10i433j46i10i175i199l4j0i10j46i10i175i199j0i10l2.1915j0j4&sourceid=chrome&ie=UTF-8) instead, which is also in the [Murramarang National Park](https://www.nationalparks.nsw.gov.au/visit-a-park/parks/murramarang-national-park), and it was nice, but not quite the same as Pebbly. These photos are from Pretty Beach.
+
+![](/img/92e72fb1-7929-43ee-b4e2-e2b01cb4c177.jpg)
+
+![](/img/0b6b8e2c-3715-447d-a785-07af88b59c93.jpg)
+
+![](/img/6d8f5436-9cf9-4abc-a2c5-925887e7b579.jpg)
+
+![](/img/7c01eabe-82fe-4904-b074-365a3d681f66.jpg)
+
+Both campgrounds cost $12 per person per night and are ~270km South of Sydney.
+
+PS - obsessed with eating noodles when camping! Cheesy potatoes cooked in the campfire are also another favourite. 
 
 ****
 
