@@ -11,7 +11,7 @@
     "gatsby-plugin-react-helmet": "^5.4.0",
     "gatsby-remark-images": "^6.4.0",
     "gatsby-source-filesystem": "^4.4.0",
-    "gatsby-transformer-remark": "^5.4.0",
+    "gatsby-transformer-remark": "^5.25.1",
     "lodash": "^4.17.21",
     "lodash-webpack-plugin": "^0.11.4",
     "netlify-cms-app": "^2.15.62",
