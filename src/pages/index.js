@@ -41,27 +41,25 @@ IndexPage.propTypes = {
   }),
 };
 
-export const pageQuery = graphql`
-  query IndexQuery {
-    allMarkdownRemark(
-      sort: { order: DESC, fields: [frontmatter___date] }
-      filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
-    ) {
-      edges {
-        node {
-          id
-          fields {
-            slug
-          }
-          frontmatter {
-            title
-            templateKey
-            description
-            date(formatString: "MMMM DD, YYYY")
-            featuredImage
-          }
+export const pageQuery = graphql`query IndexQuery {
+  allMarkdownRemark(
+    sort: {frontmatter: {date: DESC}}
+    filter: {frontmatter: {templateKey: {eq: "blog-post"}}}
+  ) {
+    edges {
+      node {
+        id
+        fields {
+          slug
+        }
+        frontmatter {
+          title
+          templateKey
+          description
+          date(formatString: "MMMM DD, YYYY")
+          featuredImage
         }
       }
     }
   }
-`;
+}`;

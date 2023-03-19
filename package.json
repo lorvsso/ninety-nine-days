@@ -4,23 +4,23 @@
   "author": "Jack Lo Russo",
   "repository": "https://github.com/lorvsso/ninety-nine-days",
   "dependencies": {
-    "gatsby": "^4.25.4",
-    "gatsby-plugin-google-gtag": "^4.4.0",
-    "gatsby-plugin-netlify-cms": "^6.4.0",
-    "gatsby-plugin-postcss": "^5.4.0",
-    "gatsby-plugin-react-helmet": "^5.4.0",
-    "gatsby-remark-images": "^6.4.0",
-    "gatsby-source-filesystem": "^4.4.0",
-    "gatsby-transformer-remark": "^5.25.1",
+    "gatsby": "^5.7.0",
+    "gatsby-plugin-google-gtag": "^5.7.0",
+    "gatsby-plugin-netlify-cms": "^7.7.0",
+    "gatsby-plugin-postcss": "^6.7.0",
+    "gatsby-plugin-react-helmet": "^6.7.0",
+    "gatsby-remark-images": "^7.7.0",
+    "gatsby-source-filesystem": "^5.7.0",
+    "gatsby-transformer-remark": "^6.7.0",
     "lodash": "^4.17.21",
-    "lodash-webpack-plugin": "^0.11.4",
-    "netlify-cms-app": "^2.15.62",
-    "postcss": "^8.4.5",
-    "prop-types": "^15.6.0",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "lodash-webpack-plugin": "^0.11.6",
+    "netlify-cms-app": "^2.15.72",
+    "postcss": "^8.4.21",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-helmet": "^6.1.0",
-    "uuid": "^8.3.2"
+    "uuid": "^9.0.0"
   },
   "keywords": [
     "gatsby"
@@ -37,7 +37,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "prettier": "^1.7.4",
-    "rimraf": "^2.6.2"
+    "prettier": "^2.8.4",
+    "rimraf": "^4.4.0"
   }
 }
