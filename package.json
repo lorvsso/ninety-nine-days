@@ -4,7 +4,7 @@
   "author": "Jack Lo Russo",
   "repository": "https://github.com/lorvsso/ninety-nine-days",
   "dependencies": {
-    "gatsby": "^5.7.0",
+    "gatsby": "^5.10.0",
     "gatsby-plugin-google-gtag": "^5.7.0",
     "gatsby-plugin-netlify-cms": "^7.7.0",
     "gatsby-plugin-postcss": "^6.7.0",
