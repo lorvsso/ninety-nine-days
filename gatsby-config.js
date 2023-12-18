@@ -38,6 +38,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-postcss`,
-    `gatsby-plugin-netlify-cms`,
+    `gatsby-plugin-decap-cms`
   ],
 };
